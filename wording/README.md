@@ -2,18 +2,18 @@
 
 # FULL DOCUMENTASI WORDING VERSION 3
 
-> **Note** : ```jangan salah baca dulu ini format ada support all dan no, jika no maka format harus sma persis, dan bagian kurung jangan ada sepasi kanan kiri seperti { wib} ❌, {wib } ❌, ataupun { wib } ❌```
+> **Note** : ```jangan salah, baca dulu ini format ada support semua dan tidak, jika tidak maka format harus sma persis, dan semua format bagian kurung jangan ada sepasi kanan kiri seperti { wib} ❌, {wib } ❌, ataupun { wib } ❌```
 
-> **Format - [x]** : ```{wib} ✅, {Wib} ✅, {WIB} ✅, {wiB} ✅, {wIb} ✅, {wIB} ✅```
+> **Format ✅** : ```{wib} ✅, {Wib} ✅, {WIB} ✅, {wiB} ✅, {wIb} ✅, {wIB} ✅```
 
-> **Format - [ ]** : ```{months} ✅, {moNths} ❌```
+> **Format ❌** : ```{months} ✅, {moNths} ❌```
 
 <details>
 <summary>WAKTU BAGIAN (WITA)</summary>
 
 > **Results** : ```00:00:00```
 
-> **Format** : ```all```
+> **Format** : ```✅```
 ```
 {waktuwita}
 ```
@@ -41,7 +41,7 @@
 
 > **Results** : ```00:00:00```
 
-> **Format** : ```all```
+> **Format** : ```✅```
 ```
 {waktuwit}
 ```
@@ -69,7 +69,7 @@
 
 > **Results** : ```00:00:00```
 
-> **Format** : ```all```
+> **Format** : ```✅```
 ```
 {waktuwib}
 ```
@@ -97,7 +97,7 @@
 
 > **Results** : ```siang```
 
-> **Format** : ```no```
+> **Format** : ```❌```
 
 > **note** : ```Hasil bisa berubah-ubah seriring waktu (siang, malam, sore, pagi)```
 ```
@@ -115,7 +115,7 @@
 
 > **Results** : ```Siang```
 
-> **Format** : ```no```
+> **Format** : ```❌```
 
 > **note** : ```Hasil bisa berubah-ubah seriring waktu (Siang, Malam, Sore, Pagi)```
 ```
@@ -133,7 +133,7 @@
 
 > **Results** : ```SIANG```
 
-> **Format** : ```no```
+> **Format** : ```❌```
 
 > **note** : ```Hasil bisa berubah-ubah seriring waktu (SIANG, MALAM, SORE, PAGI)```
 ```
