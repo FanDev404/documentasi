@@ -8,8 +8,9 @@
 
 > **Format (no)** : ```{months} ✅, {moNths} ❌```
 
-### waktu bagian wita
-> **Results** : ```00:00:00```
+<details>
+<summary>WAKTU BAGIAN (WITA)</summary>
+ > **Results** : ```00:00:00```
 
 > **Format** : ```all```
 ```
@@ -33,8 +34,9 @@
 ```
 {wita}
 ```
-
-### waktu bagian wit
+</details>
+<details>
+<summary>WAKTU BAGIAN (WIT)</summary>
 > **Results** : ```00:00:00```
 
 > **Format** : ```all```
@@ -59,8 +61,9 @@
 ```
 {wit}
 ```
-
-### waktu bagian wib
+</details>
+<details>
+<summary>WAKTU BAGIAN (WIB)</summary>
 > **Results** : ```00:00:00```
 
 > **Format** : ```all```
@@ -85,8 +88,9 @@
 ```
 {wib}
 ```
-
-### kata waktu (semua huruf kecil) 
+</details>
+<details>
+<summary>KATA WAKTU (SEMUA HURUF KECIL)</summary>
 > **Results** : ```siang```
 
 > **Format** : ```no```
@@ -101,8 +105,9 @@
 ```
 {katawaktu}
 ```
-
-### Kata waktu (huruf awalan saja yang besar) 
+</details>
+<details>
+<summary>KATA WAKTU (HURUF AWALAN BESAR)</summary>
 > **Results** : ```Siang```
 
 > **Format** : ```no```
@@ -117,8 +122,9 @@
 ```
 {Katawaktu}
 ```
-
-### KATA WAKTU (SEMUA HURUF BESAR) 
+</details>
+<details>
+<summary>KATA WAKTU (SEMUA HURUF BESAR)</summary>
 > **Results** : ```SIANG```
 
 > **Format** : ```no```
@@ -133,3 +139,4 @@
 ```
 {KATAWAKTU}
 ```
+</details>
