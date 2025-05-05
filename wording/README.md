@@ -34,3 +34,55 @@
 {wita}
 ```
 
+### waktu bagian wit
+> **Results** : ```00:00:00```
+
+> **Format** : ```all```
+```
+{waktuwit}
+```
+```
+{waktu wit}
+```
+```
+{waktu_wit}
+```
+```
+{timewit}
+```
+```
+{time wit}
+```
+```
+{time_wit}
+```
+```
+{wit}
+```
+
+### waktu bagian wib
+> **Results** : ```00:00:00```
+
+> **Format** : ```all```
+```
+{waktuwib}
+```
+```
+{waktu wib}
+```
+```
+{waktu_wib}
+```
+```
+{timewib}
+```
+```
+{time wib}
+```
+```
+{time_wib}
+```
+```
+{wib}
+```
+
