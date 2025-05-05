@@ -86,3 +86,50 @@
 {wib}
 ```
 
+### kata waktu (semua huruf kecil) 
+> **Results** : ```siang```
+
+> **Format** : ```no```
+
+> **note** : ```Hasil bisa berubah-ubah seriring waktu (siang, malam, sore, pagi)```
+```
+{kata waktu}
+```
+```
+{kata_waktu}
+```
+```
+{katawaktu}
+```
+
+### Kata waktu (huruf awalan saja yang besar) 
+> **Results** : ```Siang```
+
+> **Format** : ```no```
+
+> **note** : ```Hasil bisa berubah-ubah seriring waktu (Siang, Malam, Sore, Pagi)```
+```
+{Kata waktu}
+```
+```
+{Kata_waktu}
+```
+```
+{Katawaktu}
+```
+
+### KATA WAKTU (SEMUA HURUF BESAR) 
+> **Results** : ```SIANG```
+
+> **Format** : ```no```
+
+> **note** : ```Hasil bisa berubah-ubah seriring waktu (SIANG, MALAM, SORE, PAGI)```
+```
+{KATA WAKTU}
+```
+```
+{KATA_WAKTU}
+```
+```
+{KATAWAKTU}
+```
