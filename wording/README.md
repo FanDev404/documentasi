@@ -2,30 +2,18 @@
 
 # FULL DOCUMENTASI WORDING VERSION 3
 
-> Note : jangan salah ya karena ini ada bagian yg di update support semua text dan ada yang ga, dan jika ada keluhan bisa hubungi owner, atau ada request ingin tambahkan sesuatu pada wording
+> Note : jangan salah baca dulu ini format ada support all dan no, jika no maka format harus sma persis, dan bagian kurung jangan ada sepasi kanan kiri seperti { wib} ❌, {wib } ❌, ataupun { wib } ❌
+> Format (all) : {wib} ✅, {Wib} ✅, {WIB} ✅, {wiB} ✅, {wIb} ✅, {wIB} ✅
+> Format (no) : {months} ✅, {moNths} ❌
 
 # waktu bagian wita
 > Results : 00:00:00
-> Note : Format support all (auto dalam artian huruf mau besar kecil bisa semuanya) 
-```
-{waktuwita}
-```
-```
-{waktu wita}
-```
-```
-{waktu_wita}
-```
-```
-{timewita}
-```
-```
-{time wita}
-```
-```
-{time_wita}
-```
-```
-{wita}
-```
+> Format : all 
+```{waktuwita}```
+```{waktu wita}```
+```{waktu_wita}```
+```{timewita}```
+```{time wita}```
+```{time_wita}```
+```{wita}```
 
