@@ -10,12 +10,26 @@
 
 # waktu bagian wita
 > Results : 00:00:00
-> Format : all 
-```{waktuwita}```
-```{waktu wita}```
-```{waktu_wita}```
-```{timewita}```
-```{time wita}```
-```{time_wita}```
-```{wita}```
+> Format : all
+```
+{waktuwita}
+```
+```
+{waktu wita}
+```
+```
+{waktu_wita}
+```
+```
+{timewita}
+```
+```
+{time wita}
+```
+```
+{time_wita}
+```
+```
+{wita}
+```
 
