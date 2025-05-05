@@ -10,7 +10,8 @@
 
 <details>
 <summary>WAKTU BAGIAN (WITA)</summary>
- > **Results** : ```00:00:00```
+
+> **Results** : ```00:00:00```
 
 > **Format** : ```all```
 ```
@@ -37,6 +38,7 @@
 </details>
 <details>
 <summary>WAKTU BAGIAN (WIT)</summary>
+
 > **Results** : ```00:00:00```
 
 > **Format** : ```all```
@@ -64,6 +66,7 @@
 </details>
 <details>
 <summary>WAKTU BAGIAN (WIB)</summary>
+
 > **Results** : ```00:00:00```
 
 > **Format** : ```all```
@@ -91,6 +94,7 @@
 </details>
 <details>
 <summary>KATA WAKTU (SEMUA HURUF KECIL)</summary>
+
 > **Results** : ```siang```
 
 > **Format** : ```no```
@@ -108,6 +112,7 @@
 </details>
 <details>
 <summary>KATA WAKTU (HURUF AWALAN BESAR)</summary>
+
 > **Results** : ```Siang```
 
 > **Format** : ```no```
@@ -125,6 +130,7 @@
 </details>
 <details>
 <summary>KATA WAKTU (SEMUA HURUF BESAR)</summary>
+
 > **Results** : ```SIANG```
 
 > **Format** : ```no```
