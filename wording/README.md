@@ -1,6 +1,6 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
-### FULL DOCUMENTASI WORDING VERSION 3
+# FULL DOCUMENTASI WORDING VERSION 3
 
 > **Note** : jangan salah baca dulu ini format ada support all dan no, jika no maka format harus sma persis, dan bagian kurung jangan ada sepasi kanan kiri seperti { wib} ❌, {wib } ❌, ataupun { wib } ❌
 
@@ -8,7 +8,7 @@
 
 > **Format (no)** : {months} ✅, {moNths} ❌
 
-# waktu bagian wita
+### waktu bagian wita
 > **Results** : 00:00:00
 
 > **Format** : all
