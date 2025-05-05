@@ -4,9 +4,9 @@
 
 > **Note** : ```jangan salah baca dulu ini format ada support all dan no, jika no maka format harus sma persis, dan bagian kurung jangan ada sepasi kanan kiri seperti { wib} ❌, {wib } ❌, ataupun { wib } ❌```
 
-> **Format [x]** : ```{wib} ✅, {Wib} ✅, {WIB} ✅, {wiB} ✅, {wIb} ✅, {wIB} ✅```
+> **Format - [x]** : ```{wib} ✅, {Wib} ✅, {WIB} ✅, {wiB} ✅, {wIb} ✅, {wIB} ✅```
 
-> **Format [ ]** : ```{months} ✅, {moNths} ❌```
+> **Format - [ ]** : ```{months} ✅, {moNths} ❌```
 
 <details>
 <summary>WAKTU BAGIAN (WITA)</summary>
