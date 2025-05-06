@@ -520,6 +520,9 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 ## DISCLAIMER
 > mungkin di sini udh pada tau perbandingan waktu wib, wit, dan wita
+
 > Wit : 00:00
+
 > Wita : 23:00
+
 > Wib : 22:00
