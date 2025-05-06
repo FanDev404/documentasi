@@ -2,6 +2,8 @@
 
 # FULL DOCUMENTASI WORDING VERSION 3
 
+> **Disclaimer** : ```Bagian yang berhubungan sama waktu akan berubah sesuai wib, wit, atau wita, penjelasan singkat jika kamu bikin wd dan ada waktu bagian wit, atau wita semuanya akan ikut sesuai waktu tersebut, contoh singkat kamu masukan wd {wita}, dan kamu masukan {tanggal} dan {hari} atau lainnya yg berhungan waktu itu semua akan ikut waktu bagian wita bukan wib lagi, penambahan buat hal ini hanya bisa pilih salah satu, misalkan kamu masukin {wit} dan {wita} dalam satu wd itu tidak akan bisa dan otomatis jadi wib dan jika tidak ada {wib}, {wit}, atau {wita} akan otomatis semua menjadi waktu di atur berdasarkan perubahan di bagian wib.```
+
 > **Note** : ```jangan salah, baca dulu ini format ada support semua dan tidak, jika tidak maka format harus sma persis, dan semua format bagian kurung jangan ada sepasi kanan kiri seperti { wib} ❌, {wib } ❌, ataupun { wib } ❌```
 
 > **Format (✅)** : ```{wib} ✅, {Wib} ✅, {WIB} ✅, {wiB} ✅, {wIb} ✅, {wIB} ✅```
@@ -15,6 +17,8 @@
 > **Results** : ```00:00:00```
 
 > **Format** : ```✅```
+
+> **note** : ```Hasil bisa berubah-ubah seriring berganti waktu```
 ```
 {waktuwita}
 ```
@@ -45,6 +49,8 @@
 > **Results** : ```00:00:00```
 
 > **Format** : ```✅```
+
+> **note** : ```Hasil bisa berubah-ubah seriring berganti waktu```
 ```
 {waktuwit}
 ```
@@ -75,6 +81,8 @@
 > **Results** : ```00:00:00```
 
 > **Format** : ```✅```
+
+> **note** : ```Hasil bisa berubah-ubah seriring berganti waktu```
 ```
 {waktuwib}
 ```
@@ -428,5 +436,85 @@
 ```
 ```
 {MONTHS}
+```
+</details>
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+<details>
+<summary>TANGGAL</summary>
+
+> **Results** : ```31```
+
+> **Format** : ```✅```
+
+> **note** : ```Hasil bisa berubah-ubah seriring berganti hari```
+```
+{tanggal}
+```
+```
+{date}
+```
+```
+{dates}
+```
+</details>
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+<details>
+<summary>TAHUN</summary>
+
+> **Results** : ```2025```
+
+> **Format** : ```✅```
+
+> **note** : ```Hasil bisa berubah-ubah seriring berganti tahun```
+```
+{tahun}
+```
+```
+{year}
+```
+```
+{years}
+```
+</details>
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+<details>
+<summary>KALENDER</summary>
+
+> **Results** : ```31-01-2025```
+
+> **Format** : ```✅```
+
+> **note** : ```Hasil bisa berubah-ubah seriring berganti hari```
+```
+{kalender}
+```
+```
+{calendar}
+```
+```
+{calender}
+```
+</details>
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+<details>
+<summary>KALENDER 2</summary>
+
+> **Results** : ```31/01/2025```
+
+> **Format** : ```✅```
+
+> **note** : ```Hasil bisa berubah-ubah seriring berganti hari```
+```
+{kalender2}
+```
+```
+{calendar2}
+```
+```
+{calender2}
 ```
 </details>
