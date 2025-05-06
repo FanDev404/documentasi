@@ -2,7 +2,7 @@
 
 # FULL DOCUMENTASI WORDING VERSION 3
 
-> **Disclaimer** : ```Bagian yang berhubungan sama waktu akan berubah sesuai wib, wit, atau wita, penjelasan singkat jika kamu bikin wd dan ada waktu bagian wit, atau wita semuanya akan ikut sesuai waktu tersebut, contoh singkat kamu masukan wd {wita}, dan kamu masukan {tanggal} dan {hari} atau lainnya yg berhungan waktu itu semua akan ikut waktu bagian wita bukan wib lagi, penambahan buat hal ini hanya bisa pilih salah satu, misalkan kamu masukin {wit} dan {wita} dalam satu wd itu tidak akan bisa dan otomatis jadi wib dan jika tidak ada {wib}, {wit}, atau {wita} akan otomatis semua menjadi waktu di atur berdasarkan perubahan di bagian wib.```
+> **Disclaimer** : ```yang berhubungan sama waktu seperti bulan tanggal, kata waktu dll, di tentukan berdasarkan wib, wit, atau wita, penjelasan singkat jika kamu bikin wd dan ada {wita} otomatis itu bagian {hari}, {bulan} dan lainnya yang berhubungan sama waktu akan menjadi bagian wita, penambahan soal ini hanya bisa pilih salah satu {wit}, {wita} atau {wib} dan jika lebih dari satu misal dalam 1 wd ada {wita} dan {wit} akan otomatis semua waktu seperti tanggal dan lainnya akan berubah berdasarkan wib dan jika tidak pilih salah satu akan otomatis menjadi wib semua```
 
 > **Note** : ```jangan salah, baca dulu ini format ada support semua dan tidak, jika tidak maka format harus sma persis, dan semua format bagian kurung jangan ada sepasi kanan kiri seperti { wib} ❌, {wib } ❌, ataupun { wib } ❌```
 
