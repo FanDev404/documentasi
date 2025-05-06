@@ -291,7 +291,7 @@
 <details>
 <summary>HARI (DALAM BAHASA INGGRIS DAN SEMUA HURUF KECIL)</summary>
 
-> **Results** : ```senin```
+> **Results** : ```monday```
 
 > **Format** : ```❌```
 
@@ -325,7 +325,7 @@
 <details>
 <summary>HARI (DALAM BAHASA INGGRIS DAN SEMUA HURUF BESAR)</summary>
 
-> **Results** : ```SENIN```
+> **Results** : ```MONDAY```
 
 > **Format** : ```❌```
 
@@ -335,5 +335,98 @@
 ```
 ```
 {DAYS}
+```
+</details>
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+<details>
+<summary>BULAN (SEMUA HURUF KECIL)</summary>
+
+> **Results** : ```januari```
+
+> **Format** : ```❌```
+
+> **note** : ```Hasil bisa berubah-ubah seriring berganti bulan (januari, februari, maret, april, mei, juni, juli, agustus, september, oktober, november, desember)```
+```
+{bulan}
+```
+</details>
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+<details>
+<summary>BULAN (HURUF AWALAN BESAR)</summary>
+
+> **Results** : ```Januari```
+
+> **Format** : ```❌```
+
+> **note** : ```Hasil bisa berubah-ubah seriring berganti bulan (Januari, Februari, Maret, April, Mei, Juni, Juli, Agustus, September, Oktober, November, Desember)```
+```
+{Bulan}
+```
+</details>
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+<details>
+<summary>BULAN (SEMUA HURUF BESAR)</summary>
+
+> **Results** : ```JANUARI```
+
+> **Format** : ```❌```
+
+> **note** : ```Hasil bisa berubah-ubah seriring berganti bulan (JANUARI, FEBRUARI, MARET, APRIL, MEI, JUNI, JULI, AGUSTUS, SEPTEMBER, OKTOBER, NOVEMBER, DESEMBER)```
+```
+{BULAN}
+```
+</details>
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+<details>
+<summary>BULAN (DALAM BAHASA INGGRIS DAN SEMUA HURUF KECIL)</summary>
+
+> **Results** : ```january```
+
+> **Format** : ```❌```
+
+> **note** : ```Hasil bisa berubah-ubah seriring berganti bulan (january, february, march, april, may, june, july, august, september, october, november, december)```
+```
+{month}
+```
+```
+{months}
+```
+</details>
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+<details>
+<summary>BULAN (DALAM BAHASA INGGRIS DAN HURUF AWALAN BESAR)</summary>
+
+> **Results** : ```January```
+
+> **Format** : ```❌```
+
+> **note** : ```Hasil bisa berubah-ubah seriring berganti bulan (January, February, March, April, May, June, July, August, September, October, November, December)```
+```
+{Month}
+```
+```
+{Months}
+```
+</details>
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+<details>
+<summary>BULAN (DALAM BAHASA INGGRIS DAN SEMUA HURUF BESAR)</summary>
+
+> **Results** : ```JANUARY```
+
+> **Format** : ```❌```
+
+> **note** : ```Hasil bisa berubah-ubah seriring berganti bulan (JANUARY, FEBRUARY, MARCH, APRIL, MAY, JUNE, JULY, AUGUST, SEPTEMBER, OCTOBER, NOVEMBER, DECEMBER)```
+```
+{MONTH}
+```
+```
+{MONTHS}
 ```
 </details>
