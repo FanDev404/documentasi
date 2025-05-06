@@ -1,8 +1,6 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
-# FULL DOCUMENTASI WORDING VERSION 3
-
-> **Disclaimer** : ```yang berhubungan sama waktu seperti bulan tanggal, kata waktu dll, di tentukan berdasarkan wib, wit, atau wita, penjelasan singkat jika kamu bikin wd dan ada {wita} otomatis itu jika kamu pakai {hari}, {bulan} atau sejenisnya yang berhubungan sama waktu akan menjadi bagian wita, penambahan soal ini hanya bisa pilih salah satu {wit}, {wita} atau {wib} dan jika lebih dari satu misal dalam 1 wd ada {wita} dan {wit} akan otomatis semua waktu yang kamu pakai dalam wd seperti {tanggal}, {bulan} dan lainnya akan berubah berdasarkan wib dan jika tidak pilih salah satu otomatis akan menjadi wib semua```
+# DOCUMENTASI WORDING VERSION 3
 
 > **Note** : ```jangan salah, baca dulu ini format ada support semua dan tidak, jika tidak maka format harus sma persis, dan semua format bagian kurung jangan ada sepasi kanan kiri seperti { wib} ❌, {wib } ❌, ataupun { wib } ❌```
 
@@ -518,3 +516,10 @@
 {calender2}
 ```
 </details>
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+## DISCLAIMER
+> mungkin di sini udh pada tau perbandingan waktu wib, wit, dan wita
+> Wit : 00:00
+> Wita : 23:00
+> Wib : 22:00
