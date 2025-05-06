@@ -37,7 +37,9 @@
 {wita}
 ```
 </details>
+
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+
 <details>
 <summary>WAKTU BAGIAN (WIT)</summary>
 
@@ -66,7 +68,9 @@
 {wit}
 ```
 </details>
+
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+
 <details>
 <summary>WAKTU BAGIAN (WIB)</summary>
 
@@ -95,7 +99,9 @@
 {wib}
 ```
 </details>
+
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+
 <details>
 <summary>KATA WAKTU (SEMUA HURUF KECIL)</summary>
 
@@ -114,7 +120,9 @@
 {katawaktu}
 ```
 </details>
+
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+
 <details>
 <summary>KATA WAKTU (HURUF AWALAN BESAR)</summary>
 
@@ -133,7 +141,9 @@
 {Katawaktu}
 ```
 </details>
+
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+
 <details>
 <summary>KATA WAKTU (SEMUA HURUF BESAR)</summary>
 
@@ -152,7 +162,9 @@
 {KATAWAKTU}
 ```
 </details>
+
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+
 <details>
 <summary>KATA WAKTU (DALAM BAHASA INGGRIS DAN SEMUA HURUF KECIL)</summary>
 
@@ -180,7 +192,9 @@
 {saidtimes}
 ```
 </details>
+
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+
 <details>
 <summary>KATA WAKTU (DALAM BAHASA INGGRIS DAN HURUF AWALAN BESAR)</summary>
 
@@ -208,7 +222,9 @@
 {Saidtimes}
 ```
 </details>
+
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+
 <details>
 <summary>KATA WAKTU (DALAM BAHASA INGGRIS DAN SEMUA HURUF BESAR)</summary>
 
