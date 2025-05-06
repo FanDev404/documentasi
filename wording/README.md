@@ -523,3 +523,31 @@
 - Wit : 00:00
 - Wita : 23:00
 - Wib : 22:00
+> di sini aku akan kasih tau tetang perubahan waktu yang di pakai cukup mempengaruhi wording, jika kalian pakai {wita} atau {wit} otomatis semua {tanggal}, {bulan}, {hari} dan lainnya yg berubah berdasarkan waktu akan di pengaruh oleh ini
+
+### CONTOH 1 :
+```
+jam : {wit}
+hari : {hari}
+```
+
+### RESULT 1 :
+```
+jam : 00:00
+hari : Selasa
+```
+
+### CONTOH 2 :
+```
+jam : {wib}
+hari : {hari}
+```
+
+### RESULT 2 :
+```
+jam : 22:00
+hari : Senin
+```
+
+> disini terlihat perbedaannya, jika kalian memakai di daerah wib maka otomatis jika kalian memakai jam {wit} di dalam wd, maka di jam 22:00 perubahan hari akan berubah, karena wit lebih 2 jam dari wib, tidak cuman hari kalian kalo memakai wd menggunakan {tanggal}, {bulan} dll itu akan berpengaruh, di sini aku akan kasih tau soal lain, ini hanya bisa pilih salah satu antara {wib}, {wit}, atau {wita}, jika lebih dari 1 atau tidak ada salah satu di antara 3 tersebut di dalam wd maka akan otomatis semua perubahan {tanggal}, {bulan} dll yg berhubungan dengan waktu dan ada dalam wd maka akan otomatis mengikuti perubahan wib
+
