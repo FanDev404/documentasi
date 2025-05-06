@@ -146,3 +146,91 @@
 {KATAWAKTU}
 ```
 </details>
+
+
+
+
+
+
+
+<details>
+<summary>KATA WAKTU (DALAM BAHASA INGGRIS DAN SEMUA HURUF KECIL)</summary>
+
+> **Results** : ```afternoon```
+
+> **Format** : ```❌```
+
+> **note** : ```Hasil bisa berubah-ubah seriring waktu (afternoon, evening, morning)```
+```
+{said time}
+```
+```
+{said times}
+```
+```
+{said_time}
+```
+```
+{said_times}
+```
+```
+{saidtime}
+```
+```
+{saidtimes}
+```
+</details>
+<details>
+<summary>KATA WAKTU (DALAM BAHASA INGGRIS DAN HURUF AWALAN BESAR)</summary>
+
+> **Results** : ```Afternoon```
+
+> **Format** : ```❌```
+
+> **note** : ```Hasil bisa berubah-ubah seriring waktu (Afternoon, Evening, Morning)```
+```
+{Said time}
+```
+```
+{Said times}
+```
+```
+{Said_time}
+```
+```
+{Said_times}
+```
+```
+{Saidtime}
+```
+```
+{Saidtimes}
+```
+</details>
+<details>
+<summary>KATA WAKTU (DALAM BAHASA INGGRIS DAN SEMUA HURUF BESAR)</summary>
+
+> **Results** : ```AFTERNOON```
+
+> **Format** : ```❌```
+
+> **note** : ```Hasil bisa berubah-ubah seriring waktu (AFTERNOON, EVENING, MORNING)```
+```
+{SAID TIME}
+```
+```
+{SAID TIMEs}
+```
+```
+{SAID_TIME}
+```
+```
+{SAID_TIMEs}
+```
+```
+{SAIDTIME}
+```
+```
+{SAIDTIMEs}
+```
+</details>
