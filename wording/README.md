@@ -244,3 +244,96 @@
 {SAIDTIMEs}
 ```
 </details>
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+<details>
+<summary>HARI (SEMUA HURUF KECIL)</summary>
+
+> **Results** : ```senin```
+
+> **Format** : ```❌```
+
+> **note** : ```Hasil bisa berubah-ubah seriring berganti hari (senin, selasa, rabu, kamis, jumat, sabtu, minggu)```
+```
+{hari}
+```
+</details>
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+<details>
+<summary>HARI (HURUF AWALAN BESAR)</summary>
+
+> **Results** : ```Senin```
+
+> **Format** : ```❌```
+
+> **note** : ```Hasil bisa berubah-ubah seriring berganti hari (Senin, Selasa, Rabu, Kamis, Jumat, Sabtu, Minggu)```
+```
+{Hari}
+```
+</details>
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+<details>
+<summary>HARI (SEMUA HURUF BESAR)</summary>
+
+> **Results** : ```SENIN```
+
+> **Format** : ```❌```
+
+> **note** : ```Hasil bisa berubah-ubah seriring berganti hari (SENIN, SELASA, RABU, KAMIS, JUMAT, SABTU, MINGGU)```
+```
+{HARI}
+```
+</details>
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+<details>
+<summary>HARI (DALAM BAHASA INGGRIS DAN SEMUA HURUF KECIL)</summary>
+
+> **Results** : ```senin```
+
+> **Format** : ```❌```
+
+> **note** : ```Hasil bisa berubah-ubah seriring berganti hari (monday, tuesday, wednesday, thursday, rriday, saturday, sunday)```
+```
+{day}
+```
+```
+{days}
+```
+</details>
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+<details>
+<summary>HARI (DALAM BAHASA INGGRIS DAN HURUF AWALAN BESAR)</summary>
+
+> **Results** : ```Monday```
+
+> **Format** : ```❌```
+
+> **note** : ```Hasil bisa berubah-ubah seriring berganti hari (Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday)```
+```
+{Day}
+```
+```
+{Days}
+```
+</details>
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+<details>
+<summary>HARI (DALAM BAHASA INGGRIS DAN SEMUA HURUF BESAR)</summary>
+
+> **Results** : ```SENIN```
+
+> **Format** : ```❌```
+
+> **note** : ```Hasil bisa berubah-ubah seriring berganti hari (MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY, SATURDAY, SUNDAY)```
+```
+{DAY}
+```
+```
+{DAYS}
+```
+</details>
