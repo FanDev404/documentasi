@@ -10,6 +10,181 @@
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <details>
+<summary>SENDER NUMBER</summary>
+
+> **Results** : ```6289674310267```
+
+> **Format** : ```✅```
+
+> **note** : ```Hasil bisa berubah-ubah tergantung siapa yang ketik```
+```
+{users}
+```
+```
+{user}
+```
+</details>
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+<details>
+<summary>NAMA GROUPS</summary>
+
+> **Results** : ```NO COMMENT```
+
+> **Format** : ```✅```
+
+> **note** : ```Hasil bisa berubah-ubah tergantung nama gc```
+```
+{groupname}
+```
+```
+{group_name}
+```
+```
+{group name}
+```
+```
+{grupname}
+```
+```
+{grup_name}
+```
+```
+{grup name}
+```
+```
+{groupnama}
+```
+```
+{group_nama}
+```
+```
+{group nama}
+```
+```
+{grupnama}
+```
+```
+{grup_nama}
+```
+```
+{grup nama}
+```
+```
+{namegroup}
+```
+```
+{name_group}
+```
+```
+{name group}
+```
+```
+{namegrup}
+```
+```
+{name_grup}
+```
+```
+{name grup}
+```
+```
+{namagroup}
+```
+```
+{nama_group}
+```
+```
+{nama group}
+```
+```
+{namagrup}
+```
+```
+{nama_grup}
+```
+```
+{nama grup}
+```
+</details>
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+<details>
+<summary>DESCRIPTION GROUPS</summary>
+
+> **Results** : ```NO COMMENT```
+
+> **Format** : ```✅```
+
+> **note** : ```Hasil tergantung pada decs group```
+```
+{desc}
+```
+</details>
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+<details>
+<summary>TOTAL MEMBER GROUPS</summary>
+
+> **Results** : ```NO COMMENT```
+
+> **Format** : ```✅```
+
+> **note** : ```Hasil tergantung pada total member di group```
+```
+{totalmember}
+```
+```
+{total_member}
+```
+```
+{total member}
+```
+</details>
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+<details>
+<summary>TOTAL ADMIN GROUPS</summary>
+
+> **Results** : ```NO COMMENT```
+
+> **Format** : ```✅```
+
+> **note** : ```Hasil tergantung pada total admin group```
+```
+{totaladmin}
+```
+```
+{total_admin}
+```
+```
+{total admin}
+```
+</details>
+
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+<details>
+<summary>SENDER NAME</summary>
+
+> **Results** : ```NO COMMENT```
+
+> **Format** : ```✅```
+
+> **note** : ```Hasil tergantung pada nama user di profile```
+```
+{pushname}
+```
+```
+{push_name}
+```
+```
+{push name}
+```
+</details>
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+<details>
 <summary>WAKTU BAGIAN (WITA)</summary>
 
 > **Results** : ```00:00:00```
