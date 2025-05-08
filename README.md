@@ -12,6 +12,7 @@
 - [x] fix debug calculator (29-04-2025)
 - [ ] fix debug open time
 - [ ] fix debug database
+- [ ] new features respon 
 
 # DOCUMENTASI
 
