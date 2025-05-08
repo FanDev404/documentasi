@@ -10,8 +10,8 @@
 - [x] editing type bot (18-04-2025) 
 - [x] new feature move list (27-04-2025)
 - [x] fix debug calculator (29-04-2025)
-- [ ] fix debug open time
-- [ ] fix debug database
+- [x] fix debug open time (08-05-2025) 
+- [x] fix debug database (08-05-2025) 
 - [ ] new features respon 
 
 # DOCUMENTASI
