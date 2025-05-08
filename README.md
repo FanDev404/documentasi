@@ -4,4 +4,4 @@
 
 # DOCUMENTASI
 
-- Link Group [Click Here](https://chat.whatsapp.com/JbzMsezhCwUKdC6dnjwcIz)
+- [wording](https://chat.whatsapp.com/JbzMsezhCwUKdC6dnjwcIz)
