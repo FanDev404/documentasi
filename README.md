@@ -4,4 +4,4 @@
 
 # DOCUMENTASI
 
-- [wording](https://chat.whatsapp.com/JbzMsezhCwUKdC6dnjwcIz)
+- [wording](https://github.com/FanDev404/documentasi/blob/404/wording/README.md)
