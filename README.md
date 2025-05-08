@@ -7,6 +7,7 @@
 - [x] fix debug add sewa (17-04-2025)
 - [x] fix debug rvo (17-04-2025)
 - [x] fix debug ephemeral (18-04-2025)
+- [x] editing type bot (18-04-2025) 
 - [x] new feature move list (27-04-2025)
 - [x] fix debug calculator (29-04-2025)
 - [ ] fix debug open time
