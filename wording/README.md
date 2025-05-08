@@ -2,7 +2,7 @@
 
 # DOCUMENTASI WORDING VERSION 3
 
-> **Note** : ```jangan salah, baca dulu ini format ada support semua dan tidak, jika tidak maka format harus sma persis, dan semua format bagian kurung jangan ada sepasi kanan kiri seperti { wib} ❌, {wib } ❌, ataupun { wib } ❌```
+> **Note** : ```jangan salah, baca dulu ini format ada support semua dan tidak, jika tidak maka format harus sma persis```
 
 > **Format (✅)** : ```{wib} ✅, {Wib} ✅, {WIB} ✅, {wiB} ✅, {wIb} ✅, {wIB} ✅```
 
