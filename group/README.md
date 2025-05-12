@@ -71,24 +71,24 @@
   
 ### TAGS FORMAT
 
-1. ```antilinkgc```
-2. ```antilinkch```
-3. ```antilinkyt```
-4. ```antilinkfb```
-5. ```antilinkig```
-6. ```antilinktele```
-7. ```antiwame```
-8. ```antilinktt```
-9. ```antilinktwit```
-10. ```antivirtex```
-11. ```antitagsw```
-12. ```antitag```
-13. ```antitoxic```
-14. ```antisange```
-15. ```antivabe```
-16. ```antiasing```
-17. ```antidel```
-18. ```announce```
+1. ```antilinkgc``` (ANTI LINK GROUP)
+2. ```antilinkch``` (ANTI LINK CHANNEL)
+3. ```antilinkyt``` (ANTI LINK YOUTUBE)
+4. ```antilinkfb``` (ANTI LINK FACEBOOK)
+5. ```antilinkig``` (ANTI LINK INSTAGRAM)
+6. ```antilinktele``` (ANTI LINK TELEGRAM)
+7. ```antiwame``` (ANTI LINK wa.me)
+8. ```antilinktt``` (ANTI LINK TIKTOK)
+9. ```antilinktwit``` (ANTI LINK TWITER)
+10. ```antivirtex``` (ANTI VIRTEX)
+11. ```antitagsw``` (ANTI TAG STATUS WA)
+12. ```antitag``` (ANTI TAG MEMBER)
+13. ```antitoxic``` (ANTI TOXIC)
+14. ```antisange``` (ANTI SANGE/ANTI JOMOK)
+15. ```antivabe``` (ANTI VIRTUAL ACCOUNT BANK & E-WALLET)
+16. ```antiasing``` (ANTI NOMER NON INDO)
+17. ```antidel``` (ANTI DELETE MESSAGE)
+18. ```announce``` (OPEN/CLOSE GROUP)
 
 ### EXAMPLE (NO REPLY)
 ![Preview](/group/example-setantilink-channel.jpg)
