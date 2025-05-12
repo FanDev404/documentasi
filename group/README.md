@@ -31,7 +31,10 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <details>
 <summary>SETTINGS SCURITY GROUP</summary>
-
+  
+## DISCAILMER
+  ```jika kalian tidak tahu bagian sini hanya berguna untuk settings merubah sender atau pengirim menjadi kick, delete pesan atau ke duanya juga bisa```
+  
 ### FEATURE
 - ```setantilinkgc``` (SETTINGS ANTI LINK GROUP)
 - ```setantilinkch``` (SETTINGS ANTI LINK CHANNEL)
