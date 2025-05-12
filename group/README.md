@@ -61,3 +61,38 @@
 ### EXAMPLE (BY REPLY)
 ![Preview](/group/example-setantilink-channel-reply.jpg)
 </details>
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+<details>
+<summary>SETTINGS RESPONSE SCURITY GROUP</summary>
+  
+## DISCAILMER
+  ```jika kalian tidak tahu bagian sini hanya untuk merubah apakah mau di kasih respon atau tidak```
+  
+### TAGS FORMAT
+
+1. ```antilinkgc```
+2. ```antilinkch```
+3. ```antilinkyt```
+4. ```antilinkfb```
+5. ```antilinkig```
+6. ```antilinktele```
+7. ```antiwame```
+8. ```antilinktt```
+9. ```antilinktwit```
+10. ```antivirtex```
+11. ```antitagsw```
+12. ```antitag```
+13. ```antitoxic```
+14. ```antisange```
+15. ```antivabe```
+16. ```antiasing```
+17. ```antidel```
+18. ```announce```
+
+### EXAMPLE (NO REPLY)
+![Preview](/group/example-setantilink-channel.jpg)
+
+### EXAMPLE (BY REPLY)
+![Preview](/group/example-setantilink-channel-reply.jpg)
+</details>
