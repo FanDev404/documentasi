@@ -97,5 +97,5 @@
 ![Preview](/group/example-setrespon-reply.jpg)
 
 ### FOR RESULTS (✅)
-![Preview](/group/example-setrespon-reply.jpg)
+![Preview](/group/results-yes.jpg)
 </details>
