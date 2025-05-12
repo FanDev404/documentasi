@@ -2,6 +2,9 @@
 <details>
 <summary>SCURITY GROUP</summary>
 
+## DISCAILMER
+  ```beberapa factor tidak akan terkena seperti bot yg mengirim, admin yang mengirim atau owner yang mengirim```
+  
 ### FEATURE
 - ```antilinkgc``` (ANTI LINK GROUP)
 - ```antilinkch``` (ANTI LINK CHANNEL)
