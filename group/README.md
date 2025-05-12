@@ -1,7 +1,7 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 # SCURITY GROUP
 
-- antilinkgc
+- antilinkgc (ANTI LINK GROUP)
 - antilinkch
 - antilinkyt
 - antilinkfb
