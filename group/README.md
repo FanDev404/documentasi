@@ -21,5 +21,7 @@
 - ```antiasing``` (ANTI NOMER NON INDO)
 - ```antidel``` (ANTI DELETE MESSAGE)
 
-### EXAMPLE
+### EXAMPLE (NO REPLY)
+![Preview](/demo/demo1.jpeg)
+
 </details>
