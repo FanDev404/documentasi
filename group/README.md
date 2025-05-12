@@ -20,5 +20,5 @@
 - antiasing (ANTI NOMER NON INDO)
 - antidel (ANTI DELETE MESSAGE)
 
-  ### EXAMPLE
+### EXAMPLE
 </details>
