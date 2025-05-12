@@ -27,3 +27,31 @@
 ### EXAMPLE (BY REPLY)
 ![Preview](/group/example-antilink-reply.jpg)
 </details>
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+<details>
+<summary>SETTINGS SCURITY GROUP</summary>
+
+### FEATURE
+- ```setantilinkgc``` (SETTINGS ANTI LINK GROUP)
+- ```setantilinkch``` (SETTINGS ANTI LINK CHANNEL)
+- ```setantilinkyt``` (SETTINGS ANTI LINK YOUTUBE)
+- ```setantilinkfb``` (SETTINGS ANTI LINK FACEBOOK)
+- ```setantilinkig``` (SETTINGS ANTI LINK INSTAGRAM)
+- ```setantilinktele``` (SETTINGS ANTI LINK TELEGRAM)
+- ```setantiwame``` (SETTINGS ANTI LINK wa.me)
+- ```setantilinktt``` (SETTINGS ANTI LINK TIKTOK)
+- ```setantilinktwit``` (SETTINGS ANTI LINK TWITER)
+- ```setantivirtex``` (SETTINGS ANTI VIRTEX)
+- ```setantitagsw``` (SETTINGS ANTI TAG STATUS WA)
+- ```setantitag``` (SETTINGS ANTI TAG MEMBER)
+- ```setantitoxic``` (SETTINGS ANTI TOXIC)
+- ```setantisange``` (SETTINGS ANTI SANGE/ANTI JOMOK)
+- ```setantivabe``` (SETTINGS ANTI VIRTUAL ACCOUNT BANK & E-WALLET)
+
+### EXAMPLE (NO REPLY)
+![Preview](/group/example-antilink.jpg)
+
+### EXAMPLE (BY REPLY)
+![Preview](/group/example-antilink-reply.jpg)
+</details>
