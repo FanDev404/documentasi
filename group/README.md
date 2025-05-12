@@ -1,5 +1,6 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
-# SCURITY GROUP
+<details>
+<summary>SCURITY GROUP</summary>
 
 - antilinkgc (ANTI LINK GROUP)
 - antilinkch (ANTI LINK CHANNEL)
@@ -18,4 +19,4 @@
 - antivabe (ANTI VIRTUAL ACCOUNT BANK & E-WALLET)
 - antiasing (ANTI NOMER NON INDO)
 - antidel (ANTI DELETE MESSAGE)
-
+</details>
