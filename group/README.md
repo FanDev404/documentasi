@@ -94,5 +94,5 @@
 ![Preview](/group/example-setrespon.jpg)
 
 ### EXAMPLE (BY REPLY)
-![Preview](/group/example-setantilink-channel-reply.jpg)
+![Preview](/group/example-setrespon-reply.jpg)
 </details>
