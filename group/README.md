@@ -2,8 +2,9 @@
 <details>
 <summary>SCURITY GROUP</summary>
 
-- antilinkgc (ANTI LINK GROUP)
-- antilinkch (ANTI LINK CHANNEL)
+### FEATURE
+- ```antilinkgc``` (ANTI LINK GROUP)
+- ```antilinkch``` (ANTI LINK CHANNEL)
 - antilinkyt (ANTI LINK YOUTUBE)
 - antilinkfb (ANTI LINK FACEBOOK)
 - antilinkig (ANTI LINK INSTAGRAM)
