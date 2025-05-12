@@ -59,5 +59,5 @@
 ![Preview](/group/example-setantilink-channel.jpg)
 
 ### EXAMPLE (BY REPLY)
-![Preview](/group/example-antilink-reply.jpg)
+![Preview](/group/example-setantilink-channel-reply.jpg)
 </details>
