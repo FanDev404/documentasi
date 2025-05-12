@@ -95,4 +95,7 @@
 
 ### EXAMPLE (BY REPLY)
 ![Preview](/group/example-setrespon-reply.jpg)
+
+### FOR RESULTS (✅)
+![Preview](/group/example-setrespon-reply.jpg)
 </details>
