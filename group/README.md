@@ -98,4 +98,7 @@
 
 ### FOR RESULTS (✅)
 ![Preview](/group/results-yes.jpg)
+
+### FOR RESULTS (❌)
+![Preview](/group/results-no.jpg)
 </details>
