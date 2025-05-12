@@ -22,6 +22,6 @@
 - ```antidel``` (ANTI DELETE MESSAGE)
 
 ### EXAMPLE (NO REPLY)
-![Preview](/demo/demo1.jpeg)
+![Preview](/group/example-antilink.jpg)
 
 </details>
