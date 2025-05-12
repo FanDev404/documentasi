@@ -91,7 +91,7 @@
 18. ```announce``` (OPEN/CLOSE GROUP)
 
 ### EXAMPLE (NO REPLY)
-![Preview](/group/example-setantilink-channel.jpg)
+![Preview](/group/example-setrespon.jpg)
 
 ### EXAMPLE (BY REPLY)
 ![Preview](/group/example-setantilink-channel-reply.jpg)
