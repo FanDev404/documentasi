@@ -56,7 +56,7 @@
 - ```setantivabe``` (SETTINGS ANTI VIRTUAL ACCOUNT BANK & E-WALLET)
 
 ### EXAMPLE (NO REPLY)
-![Preview](/group/example-antilink.jpg)
+![Preview](/group/example-setantilink-channel.jpg)
 
 ### EXAMPLE (BY REPLY)
 ![Preview](/group/example-antilink-reply.jpg)
