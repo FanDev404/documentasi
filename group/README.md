@@ -24,4 +24,6 @@
 ### EXAMPLE (NO REPLY)
 ![Preview](/group/example-antilink.jpg)
 
+### EXAMPLE (BY REPLY)
+![Preview](/group/example-antilink-reply.jpg)
 </details>
