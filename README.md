@@ -20,3 +20,4 @@
 # DOCUMENTASI
 
 - [wording](https://github.com/FanDev404/documentasi/blob/404/wording/README.md)
+- [configurasi group](https://github.com/FanDev404/documentasi/blob/404/group/README.md)
