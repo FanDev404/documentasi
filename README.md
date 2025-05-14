@@ -11,7 +11,8 @@
 - [x] new feature move list (27-04-2025)
 - [x] fix debug calculator (29-04-2025)
 - [x] fix debug open time (08-05-2025) 
-- [x] fix debug database (08-05-2025) 
+- [x] fix debug database (08-05-2025)
+- [x] fix tiktok download (13-05-2025) 
 - [ ] new features respon
 - [ ] fix debug msg
 - [ ] auto delete list pc
