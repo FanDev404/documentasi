@@ -102,3 +102,23 @@
 ### FOR RESULTS (❌)
 ![Preview](/group/results-no.jpg)
 </details>
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+<details>
+<summary>SETTINGS HIDETAG GROUP</summary>
+  
+## DISCAILMER
+  ```jika kalian tidak tahu bagian sini hanya untuk mengatur hidetag siapa saja yang akan kena tag, dan teruntuk owner bot tidak akan terkena hidetag sma sekali```
+  
+### TAGS FORMAT
+
+1. ```member``` (HANYA MEMBER YANG KENA HIDETAG)
+2. ```admin``` (HANYA ADMIN YANG KENA HIDETAG)
+3. ```all``` (SEMUA KENA HIDETAG)
+
+### EXAMPLE (NO REPLY)
+![Preview](/group/example-setrespon.jpg)
+
+### EXAMPLE (BY REPLY)
+![Preview](/group/example-setrespon-reply.jpg)
+</details>
