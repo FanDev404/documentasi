@@ -117,8 +117,8 @@
 3. ```all``` (SEMUA KENA HIDETAG)
 
 ### EXAMPLE (NO REPLY)
-![Preview](/group/example-setrespon.jpg)
+![Preview](/group/example-hidetag.jpg)
 
 ### EXAMPLE (BY REPLY)
-![Preview](/group/example-setrespon-reply.jpg)
+![Preview](/group/example-hidetag-reply.jpg)
 </details>
