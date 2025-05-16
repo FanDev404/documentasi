@@ -108,7 +108,7 @@
 <summary>SETTINGS HIDETAG GROUP</summary>
   
 ## DISCAILMER
-  ```jika kalian tidak tahu bagian sini hanya untuk mengatur hidetag siapa saja yang akan kena tag, dan teruntuk owner bot tidak akan terkena hidetag sma sekali```
+  ```jika kalian tidak tahu bagian sini hanya untuk mengatur hidetag ke atur siapa saja yang akan kena tag, dan teruntuk owner bot tidak akan terkena hidetag sma sekali```
   
 ### TAGS FORMAT
 
