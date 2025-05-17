@@ -1,6 +1,6 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <details>
-<summary>SCURITY GROUP</summary>
+<summary id="scurity-group">SCURITY GROUP</summary>
 
 ## DISCAILMER
   ```beberapa factor tidak akan terkena seperti bot yg mengirim, admin yang mengirim atau owner yang mengirim```
