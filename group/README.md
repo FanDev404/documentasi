@@ -178,6 +178,7 @@ Jam : {wib}
 > bagian sini tag dari depan
 
 ![Preview](/group/example-setwd2-reply.jpg)
+
 > bagian sini tag dari belakang
 
 ![Preview](/group/example-setwd3-reply.jpg)
