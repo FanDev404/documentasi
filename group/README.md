@@ -170,7 +170,7 @@ Jam : {wib}
 > Minimal tau diri lah kalo kirim link gc , di lapak org#antilinkgc
 ```
 
-### EXAMPLE (BY REPLY)
+### EXAMPLE 1 (BY REPLY)
 ![Preview](/group/example-setwd1-reply.jpg)
 </details>
 
