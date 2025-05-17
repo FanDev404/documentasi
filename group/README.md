@@ -108,15 +108,27 @@
 <summary>SETTINGS WORDING SCURITY GROUP</summary>
   
 ## DISCAILMER
-  ```jika kalian tidak tahu bagian sini berguna untuk mute feature di group, dan ketika feature di mute maka bagi member kecuali admin dan owner tidak akan bisa memakai bot```
+  ```jika kalian tidak tahu bagian sini berguna untuk merubah tampilan respon```
+  
+### TAGS FORMAT
 
-## FORTMAT MUTE 
-> ```.mutecmd <feature>```
-
-### EXAMPLE MUTE
-```
-.mutecmd menu
-```
+- ```antilinkgc``` (ANTI LINK GROUP)
+- ```antilinkch``` (ANTI LINK CHANNEL)
+- ```antilinkyt``` (ANTI LINK YOUTUBE)
+- ```antilinkfb``` (ANTI LINK FACEBOOK)
+- ```antilinkig``` (ANTI LINK INSTAGRAM)
+- ```antilinktele``` (ANTI LINK TELEGRAM)
+- ```antiwame``` (ANTI LINK wa.me)
+- ```antilinktt``` (ANTI LINK TIKTOK)
+- ```antilinktwit``` (ANTI LINK TWITER)
+- ```antivirtex``` (ANTI VIRTEX)
+- ```antitagsw``` (ANTI TAG STATUS WA)
+- ```antitag``` (ANTI TAG MEMBER)
+- ```antitoxic``` (ANTI TOXIC)
+- ```antisange``` (ANTI SANGE/ANTI JOMOK)
+- ```antivabe``` (ANTI VIRTUAL ACCOUNT BANK & E-WALLET)
+- ```antiasing``` (ANTI NOMER NON INDO)
+- ```antidel``` (ANTI DELETE MESSAGE)
 
 ### EXAMPLE UNLOCK MUTE (NO REPLY)
 ![Preview](/group/example-unmutecmd.jpg)
