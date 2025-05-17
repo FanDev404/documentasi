@@ -16,7 +16,7 @@
 - [x] fix debug open time (08-05-2025) 
 - [x] fix debug database (08-05-2025)
 - [x] fix tiktok download (13-05-2025) 
-- [ ] new features respon
+- [x] new features respon (13-05-2025) 
 - [ ] fix debug msg
 - [ ] auto delete list pc
 - [ ] welcome group
