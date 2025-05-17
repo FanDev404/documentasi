@@ -122,3 +122,18 @@
 ### EXAMPLE (BY REPLY)
 ![Preview](/group/example-hidetag-reply.jpg)
 </details>
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+<details>
+<summary>MUTE GROUP</summary>
+  
+## DISCAILMER
+  ```jika kalian tidak tahu bagian sini berguna untuk mute group, dan bagi member kecuali admin dan owner tidak akan bisa memakai bot```
+  
+### EXAMPLE (NO REPLY)
+![Preview](/group/example-antilink.jpg)
+
+### EXAMPLE (BY REPLY)
+![Preview](/group/example-antilink-reply.jpg)
+</details>
+
