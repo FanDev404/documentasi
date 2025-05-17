@@ -1,5 +1,5 @@
 # DISCAILMER
-> bagi kalian yang mengalami masalah terhadap problem di documentasi atau tidak sesuai sama documentasi bisa hubungi saya [Click Here](https://wa.me/6289674310267)
+> semua feature owner tidak akan ke show kecuali owner sendiri yang ketik, dan bagi kalian yang mengalami masalah terhadap problem di documentasi atau tidak sesuai sama documentasi bisa hubungi saya [Click Here](https://wa.me/6289674310267)
 
 # INFO UPDATED 
 
