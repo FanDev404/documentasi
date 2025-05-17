@@ -1,5 +1,5 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
-<details id="scurity-group">
+<details>
 <summary>SCURITY GROUP</summary>
 
 ## DISCAILMER
@@ -101,6 +101,28 @@
 
 ### FOR RESULTS (❌)
 ![Preview](/group/results-no.jpg)
+</details>
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+<details>
+<summary>SETTINGS WORDING SCURITY GROUP</summary>
+  
+## DISCAILMER
+  ```jika kalian tidak tahu bagian sini berguna untuk mute feature di group, dan ketika feature di mute maka bagi member kecuali admin dan owner tidak akan bisa memakai bot```
+
+## FORTMAT MUTE 
+> ```.mutecmd <feature>```
+
+### EXAMPLE MUTE
+```
+.mutecmd menu
+```
+
+### EXAMPLE UNLOCK MUTE (NO REPLY)
+![Preview](/group/example-unmutecmd.jpg)
+
+### EXAMPLE UNLOCK MUTE (BY REPLY)
+![Preview](/group/example-unmutecmd-reply.jpg)
 </details>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
