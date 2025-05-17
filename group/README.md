@@ -130,11 +130,11 @@
 - ```antiasing``` (ANTI NOMER NON INDO)
 - ```antidel``` (ANTI DELETE MESSAGE)
 
-### EXAMPLE UNLOCK MUTE (NO REPLY)
-![Preview](/group/example-unmutecmd.jpg)
+### EXAMPLE 1 WITH @ (NO REPLY)
+![Preview](/group/example-setwd1.jpg)
 
-### EXAMPLE UNLOCK MUTE (BY REPLY)
-![Preview](/group/example-unmutecmd-reply.jpg)
+### EXAMPLE 2 WITH # (NO REPLY)
+![Preview](/group/example-setwd2.jpg)
 </details>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
