@@ -21,7 +21,7 @@
 - ```antitoxic``` (ANTI TOXIC)
 - ```antisange``` (ANTI SANGE/ANTI JOMOK)
 - ```antivabe``` (ANTI VIRTUAL ACCOUNT BANK & E-WALLET)
-- ```antiasing``` (ANTI NOMER NON INDO)
+- ```antiasing``` (ANTI NOMER NON INDO [Details](https://github.com/FanDev404/documentasi/blob/404/group/antiasing/README.md))
 - ```antidel``` (ANTI DELETE MESSAGE)
 
 ### EXAMPLE (NO REPLY)
