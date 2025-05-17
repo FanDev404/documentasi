@@ -149,6 +149,7 @@ Jam : {wib}
 
 > Minimal tau diri lah kalo kirim link gc , di lapak org@antilinkgc
 ```
+
 ### EXAMPLE 2 WITH # (NO REPLY)
 ```
 .setwd antilinkgc#「 LINK GROUP DETECT 」
@@ -168,6 +169,9 @@ Jam : {wib}
 
 > Minimal tau diri lah kalo kirim link gc , di lapak org#antilinkgc
 ```
+
+### EXAMPLE (BY REPLY)
+![Preview](/group/example-setwd1-reply.jpg)
 </details>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
