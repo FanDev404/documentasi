@@ -147,6 +147,11 @@
 ## FORTMAT MUTE 
 > ```.mutecmd <feature>```
 
+### EXAMPLE MUTE
+```
+.mutecmd menu
+```
+
 ### EXAMPLE UNLOCK MUTE (NO REPLY)
 ![Preview](/group/example-mute.jpg)
 
