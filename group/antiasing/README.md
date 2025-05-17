@@ -7,7 +7,7 @@
 
 <details>
 <summary>DAFTAR CODE NOMER</summary>
-- +1
+  - +1
   - +7
   - +20
   - +27
