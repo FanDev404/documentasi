@@ -153,9 +153,9 @@
 ```
 
 ### EXAMPLE UNLOCK MUTE (NO REPLY)
-![Preview](/group/example-mute.jpg)
+![Preview](/group/example-unmutecmd.jpg)
 
 ### EXAMPLE UNLOCK MUTE (BY REPLY)
-![Preview](/group/example-mute-reply.jpg)
+![Preview](/group/example-unmutecmd-reply.jpg)
 </details>
 
