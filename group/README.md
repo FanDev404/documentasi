@@ -108,7 +108,7 @@
 <summary>SETTINGS WORDING SCURITY GROUP</summary>
   
 ## DISCAILMER
-  ```jika kalian tidak tahu bagian sini berguna untuk merubah tampilan respon```
+  ```jika kalian tidak tahu bagian sini berguna untuk merubah tampilan respon, dan jika kalian butuh detail wording bisa lihat di sini [Click Here](https://github.com/FanDev404/documentasi/blob/404/wording/README.md)```
   
 ### TAGS FORMAT
 
