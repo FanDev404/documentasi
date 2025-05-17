@@ -150,7 +150,24 @@ Jam : {wib}
 > Minimal tau diri lah kalo kirim link gc , di lapak org@antilinkgc
 ```
 ### EXAMPLE 2 WITH # (NO REPLY)
-![Preview](/group/example-setwd2.jpg)
+```
+.setwd antilinkgc#「 LINK GROUP DETECT 」
+
+Dari : @{user}
+Tanggal : {calendar}
+Jam : {wib}
+
+> Minimal tau diri lah kalo kirim link gc , di lapak org
+```
+```
+.setwd 「 LINK GROUP DETECT 」
+
+Dari : @{user}
+Tanggal : {calendar}
+Jam : {wib}
+
+> Minimal tau diri lah kalo kirim link gc , di lapak org#antilinkgc
+```
 </details>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
