@@ -181,6 +181,15 @@ Jam : {wib}
 > bagian sini tag dari belakang
 
 ![Preview](/group/example-setwd3-reply.jpg)
+
+### EXAMPLE 3 WITH # (BY REPLY)
+> bagian sini hastag dari depan
+
+![Preview](/group/example-setwd4-reply.jpg)
+
+> bagian sini hastag dari belakang
+
+![Preview](/group/example-setwd5-reply.jpg)
 </details>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
