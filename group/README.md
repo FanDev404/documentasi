@@ -172,7 +172,6 @@ Jam : {wib}
 
 ### EXAMPLE 1 (BY REPLY)
 ![Preview](/group/example-setwd1-reply.jpg)
-</details>
 
 ### EXAMPLE 2 WITH @ (BY REPLY)
 > bagian sini tag dari depan
