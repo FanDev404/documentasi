@@ -137,3 +137,20 @@
 ![Preview](/group/example-mute-reply.jpg)
 </details>
 
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+<details>
+<summary>MUTE COMMAND GROUP</summary>
+  
+## DISCAILMER
+  ```jika kalian tidak tahu bagian sini berguna untuk mute feature di group, dan ketika feature di mute maka bagi member kecuali admin dan owner tidak akan bisa memakai bot```
+
+## FORTMAT MUTE 
+> ```.mutecmd <feature>```
+
+### EXAMPLE UNLOCK MUTE (NO REPLY)
+![Preview](/group/example-mute.jpg)
+
+### EXAMPLE UNLOCK MUTE (BY REPLY)
+![Preview](/group/example-mute-reply.jpg)
+</details>
+
