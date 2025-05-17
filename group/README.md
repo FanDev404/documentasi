@@ -131,9 +131,9 @@
   ```jika kalian tidak tahu bagian sini berguna untuk mute group, dan ketika mute aktif maka bagi member kecuali admin dan owner tidak akan bisa memakai bot```
   
 ### EXAMPLE (NO REPLY)
-![Preview](/group/example-antilink.jpg)
+![Preview](/group/example-mute.jpg)
 
 ### EXAMPLE (BY REPLY)
-![Preview](/group/example-antilink-reply.jpg)
+![Preview](/group/example-mute-reply.jpg)
 </details>
 
