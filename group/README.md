@@ -158,7 +158,3 @@
 ### EXAMPLE UNLOCK MUTE (BY REPLY)
 ![Preview](/group/example-unmutecmd-reply.jpg)
 </details>
-
-<script>
-  let hash = document.querySelector(window.location.hash)
-</script>
