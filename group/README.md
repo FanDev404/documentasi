@@ -2,6 +2,10 @@
 # CATEGORY
 > jadi di sini akan ku kasih tau, teruntuk di sini kalian perlu mangatur bagian bot kalian , teruntuk group buat hd, dll bisa settings fun, dan group store bisa settings ke store
 
+## TAGS FEATURE
+1. fun
+2. store
+3. all
 
 
 
