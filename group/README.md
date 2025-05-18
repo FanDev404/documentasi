@@ -1,6 +1,6 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 # CATEGORY
-> jadi di sini akan ku kasih tau, teruntuk di sini ada pengaturan seperti ingin botnya jdi apa aj
+> jadi di sini akan ku kasih tau, teruntuk di sini ada pengaturan seperti ingin botnya jdi apa aj di group kalian
 
 ## TAGS FEATURE
 1. ```fun``` (UNTUK GROUP HD DLL)
