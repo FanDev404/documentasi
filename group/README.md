@@ -199,6 +199,22 @@ Jam : {wib}
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <details>
+<summary>SETTINGS WORDING SCURITY GROUP</summary>
+  
+## DISCAILMER
+  ```jika kalian tidak tahu bagian sini untuk merubah tampilan open close group```
+
+### DETAIL FEATURE
+- ```setopen```
+- ```setclose```
+
+wording : [Click Here](https://github.com/FanDev404/documentasi/blob/404/wording/README.md)
+
+### EXAMPLE (NO REPLY)
+</details>
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+<details>
 <summary>SETTINGS HIDETAG GROUP</summary>
   
 ## DISCAILMER
