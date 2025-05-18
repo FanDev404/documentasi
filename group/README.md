@@ -199,7 +199,7 @@ Jam : {wib}
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <details>
-<summary>SETTINGS WORDING SCURITY GROUP</summary>
+<summary>SETTINGS WORDING ANNOUNCE</summary>
   
 ## DISCAILMER
   ```jika kalian tidak tahu bagian sini untuk merubah tampilan open close group```
