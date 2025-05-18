@@ -23,7 +23,7 @@
 <details>
 <summary>EXAMPLE (BY REPLY)</summary>
   
-![Preview](/group/example-antilink-reply.jpg)
+![Preview](/group/example-setbot.jpg)
 </details>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
