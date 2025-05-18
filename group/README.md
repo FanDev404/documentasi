@@ -3,8 +3,8 @@
 > jadi di sini akan ku kasih tau, teruntuk di sini ada pengaturan seperti ingin botnya jdi apa aj di group kalian
 
 ## TAGS FEATURE
-1. ```fun``` (UNTUK GROUP HD DLL)
-2. ```store``` (UNTUK GROUP STORE)
+1. ```store``` (UNTUK GROUP STORE)
+2. ```fun``` (UNTUK GROUP HD DLL)
 3. ```all``` (SUPPORT SEMUA MENDING JANGAN UTUK GROUP STORE KARNA DI BUAT MAIN ANAK LAIN)
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
