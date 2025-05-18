@@ -9,6 +9,7 @@
 
 <details>
 <summary>EXAMPLE (NO REPLY)</summary>
+  
 ```
 .setbot store
 ```
@@ -21,6 +22,7 @@
 </details>
 <details>
 <summary>EXAMPLE (BY REPLY)</summary>
+  
 ![Preview](/group/example-antilink-reply.jpg)
 </details>
 
