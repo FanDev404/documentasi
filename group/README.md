@@ -339,5 +339,9 @@ wording : [Click Here](https://github.com/FanDev404/documentasi/blob/404/wording
 ## DISCAILMER
 > feature ini membuat kalian mendownload video tiktok, ig dll cuman kirimkan link saja tanpa memkai feature downloader, support url tergantung pada feature download apa yang udh ada dan teruntuk feature ini hanya untuk pengaturan bot fun atau all silahkan rubah pengaturan di [settings category](#category)
 
+### RESULTS (DEFAULT AND AUTO SEND IMAGE/VIDEO)
+![Preview](/group/results-download1.jpg)
 
+### RESULTS (WITH AUDIO)
+![Preview](/group/results-download2.jpg)
 </details>
