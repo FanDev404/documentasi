@@ -211,6 +211,10 @@ Jam : {wib}
 wording : [Click Here](https://github.com/FanDev404/documentasi/blob/404/wording/README.md)
 
 ### EXAMPLE (NO REPLY)
+![Preview](/group/example-setopen.jpg)
+
+### EXAMPLE (BY REPLY)
+![Preview](/group/example-setopen-reply.jpg)
 </details>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
