@@ -258,7 +258,7 @@ Jam : {wib}
 <summary>OPEN TIME GROUP</summary>
   
 ## DISCAILMER
-  ```open time group ini membuat group close open secara otomatis berdasarkan waktu yang telah di atur```
+  ```open time group ini membuat group close open secara otomatis berdasarkan waktu yang telah di atur, dan jika kalian memakai waktu sama seperti 00:00 => 00:00, atau kalian menggunakan feature open/close manual maka ini tidak akan berfungsi jika sudah di atur waktu sebelumnya```
 
 ## FORTMAT
 > ```.opentime 06:00 => 22:30``` (GROUP AKAN OPEN DARI JAM 06:00 SAMPAI JAM 22:30)
