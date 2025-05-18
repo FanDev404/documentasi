@@ -7,7 +7,8 @@
 2. ```fun``` (UNTUK GROUP HD DLL)
 3. ```all``` (SUPPORT SEMUA MENDING JANGAN UTUK GROUP STORE KARNA DI BUAT MAIN ANAK LAIN)
 
-## EXAMPLE (NO REPLY)
+<details>
+<summary>EXAMPLE (NO REPLY)</summary>
 ```
 .setbot store
 ```
@@ -17,6 +18,13 @@
 ```
 .setbot all
 ```
+</details>
+<details>
+<summary>EXAMPLE (BY REPLY)</summary>
+![Preview](/group/example-antilink-reply.jpg)
+</details>
+### EXAMPLE (BY REPLY)
+
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <details>
 <summary>SCURITY GROUP</summary>
