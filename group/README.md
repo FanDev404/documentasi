@@ -1,13 +1,11 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 # CATEGORY
-> jadi di sini akan ku kasih tau, teruntuk di sini kalian perlu mangatur bagian bot kalian , teruntuk group buat hd, dll bisa settings fun, dan group store bisa settings ke store
+> jadi di sini akan ku kasih tau, teruntuk di sini ada pengaturan seperti ingin botnya jdi apa aj
 
 ## TAGS FEATURE
-1. fun
-2. store
-3. all
-
-
+1. ```fun``` (UNTUK GROUP HD DLL)
+2. ```store``` (UNTUK GROUP STORE)
+3. ```all``` (SUPPORT SEMUA MENDING JANGAN UTUK GROUP STORE KARNA DI BUAT MAIN ANAK LAIN)
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <details>
