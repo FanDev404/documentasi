@@ -335,11 +335,9 @@ wording : [Click Here](https://github.com/FanDev404/documentasi/blob/404/wording
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <details>
 <summary>AUTO DOWNLOAD BY URL</summary>
-  
-> teruntuk feature ini hanya untuk pengaturan bot fun atau all silahkan rubah pengaturan di [settings category](#category)
-  
+
 ## DISCAILMER
-  ```feature ini membuat kalian mendownload video tiktok, ig dll cuman kirimkan link saja tanpa memkai feature downloader, support url tergantung pada feature download apa yang udh ada```
+> feature ini membuat kalian mendownload video tiktok, ig dll cuman kirimkan link saja tanpa memkai feature downloader, support url tergantung pada feature download apa yang udh ada dan teruntuk feature ini hanya untuk pengaturan bot fun atau all silahkan rubah pengaturan di [settings category](#category)
 
 
 </details>
