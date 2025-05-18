@@ -252,3 +252,24 @@ Jam : {wib}
 ### EXAMPLE UNLOCK MUTE (BY REPLY)
 ![Preview](/group/example-unmutecmd-reply.jpg)
 </details>
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+<details>
+<summary>OPEN TIME GROUP</summary>
+  
+## DISCAILMER
+  ```open time group ini membuat group close open secara otomatis berdasarkan waktu yang telah di atur```
+
+## FORTMAT
+> ```.opentime 06:00 => 22:30``` (GROUP AKAN OPEN DARI JAM 06:00 SAMPAI JAM 22:30)
+
+### EXAMPLE WIB
+```
+.opentime 06:00 => 22:30
+```
+```
+.opentime 07:05 => 22:30 (wib)
+```
+### EXAMPLE UNLOCK MUTE (NO REPLY)
+![Preview](/group/example-unmutecmd.jpg)
+</details>
