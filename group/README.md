@@ -7,6 +7,16 @@
 2. ```fun``` (UNTUK GROUP HD DLL)
 3. ```all``` (SUPPORT SEMUA MENDING JANGAN UTUK GROUP STORE KARNA DI BUAT MAIN ANAK LAIN)
 
+## EXAMPLE (NO REPLY)
+```
+.setbot store
+```
+```
+.setbot fun
+```
+```
+.setbot all
+```
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <details>
 <summary>SCURITY GROUP</summary>
