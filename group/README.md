@@ -270,6 +270,16 @@ Jam : {wib}
 ```
 .opentime 07:05 => 22:30 (wib)
 ```
-### EXAMPLE UNLOCK MUTE (NO REPLY)
-![Preview](/group/example-unmutecmd.jpg)
+
+### EXAMPLE WIT
+```
+.opentime 07:05 => 22:30 (wit)
+```
+
+### EXAMPLE WITA
+```
+.opentime 07:05 => 22:30 (wita)
+```
+### RESULTS (06:00 => 01:00)
+![Preview](/group/results-opentime.jpg)
 </details>
