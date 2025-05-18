@@ -344,6 +344,9 @@ wording : [Click Here](https://github.com/FanDev404/documentasi/blob/404/wording
 .autodownload on
 ```
 
+### EXAMPLE (BY REPLY)
+![Preview](/group/example-download.jpg)
+
 ### RESULTS (DEFAULT AND AUTO SEND IMAGE/VIDEO)
 ![Preview](/group/results-download1.jpg)
 
