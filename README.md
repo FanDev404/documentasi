@@ -16,6 +16,7 @@
 - [x] new features respon (13-05-2025) 
 - [x] fix debug msg (17-05-2025)
 - [ ] scraper play
+- [ ] youtube download
 - [ ] auto delete list pc
 - [ ] welcome group
 
