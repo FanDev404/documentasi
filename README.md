@@ -19,6 +19,7 @@
 - [x] youtube download (21-05-2025) 
 - [x] auto delete list pc (21-05-2025)
 - [ ] stalk ff
+- [ ] sewa group in pg
 - [ ] welcome group
 
 # DOCUMENTASI
