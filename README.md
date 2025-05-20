@@ -15,9 +15,10 @@
 - [x] fix tiktok download (13-05-2025) 
 - [x] new features respon (13-05-2025) 
 - [x] fix debug msg (17-05-2025)
-- [ ] scraper play
-- [ ] youtube download
-- [ ] auto delete list pc
+- [x] scraper play (21-05-2025) 
+- [x] stalking ff (21-05-2025) 
+- [x] youtube download (21-05-2025) 
+- [x] auto delete list pc (21-05-2025) 
 - [ ] welcome group
 
 # DOCUMENTASI
