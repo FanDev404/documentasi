@@ -23,7 +23,8 @@
 - [x] anti link ig (24-05-2025)
 - [x] anti link tiktok (24-05-2025)
 - [x] anti link twitter (24-05-2025)
-- [x] anti link fb (24-25-2025) 
+- [x] anti link fb (24-25-2025)
+- [ ] anti call group
 - [ ] stalk ff
 - [ ] sewa group in pg
 - [ ] welcome group
