@@ -18,6 +18,7 @@
 - [x] scraper play (21-05-2025) 
 - [x] youtube download (21-05-2025) 
 - [x] auto delete list pc (21-05-2025)
+- [x] anti toxic (22-05-2025) 
 - [x] anti link yt (24-05-2025)
 - [x] anti link ig (24-05-2025)
 - [x] anti link tiktok (24-05-2025)
