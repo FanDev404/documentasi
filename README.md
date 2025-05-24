@@ -24,8 +24,9 @@
 - [x] anti link tiktok (24-05-2025)
 - [x] anti link twitter (24-05-2025)
 - [x] anti link fb (24-25-2025)
-- [x] douyin download (24-05-2025) 
-- [ ] stalk ff
+- [x] douyin download (24-05-2025)
+- [x] pinterest (24-05-2025) 
+- [x] stalk ff (24-05-2025) 
 - [ ] sewa group in pg
 - [ ] welcome group
 
