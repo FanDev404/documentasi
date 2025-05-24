@@ -18,14 +18,14 @@
 - [x] scraper play (21-05-2025) 
 - [x] youtube download (21-05-2025) 
 - [x] auto delete list pc (21-05-2025)
-- [x] anti toxic (22-05-2025) 
-- [x] anti link yt (24-05-2025)
-- [x] anti link ig (24-05-2025)
-- [x] anti link tiktok (24-05-2025)
-- [x] anti link twitter (24-05-2025)
-- [x] anti link fb (24-25-2025)
-- [x] douyin download (24-05-2025)
-- [x] pinterest (24-05-2025) 
+- [x] update anti toxic (22-05-2025) 
+- [x] fix anti link yt (24-05-2025)
+- [x] fix anti link ig (24-05-2025)
+- [x] fix anti link tiktok (24-05-2025)
+- [x] fix anti link twitter (24-05-2025)
+- [x] fix anti link fb (24-25-2025)
+- [x] fix douyin download (24-05-2025)
+- [ ] pinterest
 - [ ] stalk ff
 - [ ] sewa group in pg
 - [ ] welcome group
