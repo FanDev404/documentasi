@@ -35,6 +35,7 @@
 - [wording](https://github.com/FanDev404/documentasi/blob/404/wording/README.md)
 - [configurasi group](https://github.com/FanDev404/documentasi/blob/404/group/README.md)
 - [feature store](https://github.com/FanDev404/documentasi/blob/404/store/README.md)
+- [kelebihan premium](https://github.com/FanDev404/documentasi/blob/404/premium/README.md) 
 
 ### DISCAILMER
 > semua feature owner tidak akan ke show kecuali owner sendiri yang ketik, dan bagi kalian yang mengalami masalah terhadap problem di documentasi atau tidak sesuai sama documentasi bisa hubungi saya [Click Here](https://wa.me/6289674310267)
