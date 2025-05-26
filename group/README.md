@@ -239,56 +239,68 @@ Jam : {wib}
 </details>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
-<details>
-<summary>SETTINGS WORDING ANNOUNCE</summary>
-  
-## DISCAILMER
-  ```jika kalian tidak tahu bagian sini untuk merubah tampilan open close group```
+# SETTINGS WORDING ANNOUNCE
+
+> jika kalian tidak tahu bagian sini untuk merubah tampilan open close group, dan teruntuk wording kalian bisa ambil ke [sini](https://github.com/FanDev404/documentasi/blob/404/wording/README.md)
 
 ### DETAIL FEATURE
 - ```setopen```
 - ```setclose```
 
-wording : [Click Here](https://github.com/FanDev404/documentasi/blob/404/wording/README.md)
+<details>
+<summary>EXAMPLE (NO REPLY)</summary>
 
-### EXAMPLE (NO REPLY)
 ![Preview](/group/example-setopen.jpg)
+</details>
+<details>
+<summary>EXAMPLE (BY REPLY)</summary>
 
-### EXAMPLE (BY REPLY)
 ![Preview](/group/example-setopen-reply.jpg)
 </details>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
-<details>
-<summary>SETTINGS HIDETAG GROUP</summary>
-  
-## DISCAILMER
-  ```jika kalian tidak tahu bagian sini hanya untuk mengatur hidetag ke atur siapa saja yang akan kena tag, dan teruntuk owner bot tidak akan terkena hidetag sma sekali```
-  
+# SETTINGS HIDETAG GROUP
+
+> jika kalian tidak tahu bagian sini hanya untuk mengatur hidetag ke atur siapa saja yang akan kena tag, dan teruntuk owner bot tidak akan terkena hidetag sma sekali
+
 ### TAGS FORMAT
 
 1. ```member``` (HANYA MEMBER YANG KENA HIDETAG)
 2. ```admin``` (HANYA ADMIN YANG KENA HIDETAG)
 3. ```all``` (SEMUA KENA HIDETAG)
 
-### EXAMPLE (NO REPLY)
-![Preview](/group/example-hidetag.jpg)
+<details>
+<summary>EXAMPLE (NO REPLY)</summary>
 
-### EXAMPLE (BY REPLY)
+```
+.setht member
+```
+```
+.setht admin
+```
+```
+.setht all
+```
+</details>
+<details>
+<summary>EXAMPLE (BY REPLY)</summary>
+
 ![Preview](/group/example-hidetag-reply.jpg)
 </details>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
-<details>
-<summary>MUTE GROUP</summary>
-  
-## DISCAILMER
-  ```jika kalian tidak tahu bagian sini berguna untuk mute group, dan ketika mute aktif maka bagi member kecuali admin dan owner tidak akan bisa memakai bot```
-  
-### EXAMPLE (NO REPLY)
-![Preview](/group/example-mute.jpg)
+# MUTE GROUP
 
-### EXAMPLE (BY REPLY)
+> jika kalian tidak tahu bagian sini berguna untuk mute group, dan ketika mute aktif maka bagi member kecuali admin dan owner tidak akan bisa memakai bot
+
+<details>
+<summary>EXAMPLE (NO REPLY)</summary>
+
+![Preview](/group/example-mute.jpg)
+</details>
+<details>
+<summary>EXAMPLE (BY REPLY)</summary>
+
 ![Preview](/group/example-mute-reply.jpg)
 </details>
 
