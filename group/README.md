@@ -142,17 +142,10 @@
 </details>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
-<details>
-<summary>SETTINGS WORDING SCURITY GROUP</summary>
-  
-## DISCAILMER
-  ```jika kalian tidak tahu bagian sini berguna untuk merubah tampilan respon```
+# SETTINGS WORDING SCURITY GROUP
 
-### DETAIL FEATURE
-name : ```setwd```
+> jika kalian tidak tahu bagian sini berguna untuk merubah tampilan respon, dan teruntuk kalian bisa mengatur style wording [Click Here](https://github.com/FanDev404/documentasi/blob/404/wording/README.md)
 
-wording : [Click Here](https://github.com/FanDev404/documentasi/blob/404/wording/README.md)
- 
 ### TAGS FORMAT
 
 - ```antilinkgc``` (ANTI LINK GROUP)
@@ -173,7 +166,9 @@ wording : [Click Here](https://github.com/FanDev404/documentasi/blob/404/wording
 - ```antiasing``` (ANTI NOMER NON INDO)
 - ```antidel``` (ANTI DELETE MESSAGE)
 
-### EXAMPLE 1 WITH @ (NO REPLY)
+<details>
+<summary>EXAMPLE 1 WITH @ (NO REPLY)</summary>
+
 ```
 .setwd antilinkgc@「 LINK GROUP DETECT 」
 
@@ -192,8 +187,10 @@ Jam : {wib}
 
 > Minimal tau diri lah kalo kirim link gc , di lapak org@antilinkgc
 ```
+</details>
+<details>
+<summary>EXAMPLE 2 WITH # (NO REPLY)</summary>
 
-### EXAMPLE 2 WITH # (NO REPLY)
 ```
 .setwd antilinkgc#「 LINK GROUP DETECT 」
 
@@ -212,11 +209,15 @@ Jam : {wib}
 
 > Minimal tau diri lah kalo kirim link gc , di lapak org#antilinkgc
 ```
+</details>
+<details>
+<summary>EXAMPLE 1 (BY REPLY)</summary>
 
-### EXAMPLE 1 (BY REPLY)
 ![Preview](/group/example-setwd1-reply.jpg)
+</details>
+<details>
+<summary>EXAMPLE 2 WITH @ (BY REPLY)</summary>
 
-### EXAMPLE 2 WITH @ (BY REPLY)
 > bagian sini tag dari depan
 
 ![Preview](/group/example-setwd2-reply.jpg)
@@ -224,8 +225,10 @@ Jam : {wib}
 > bagian sini tag dari belakang
 
 ![Preview](/group/example-setwd3-reply.jpg)
+</details>
+<details>
+<summary>EXAMPLE 3 WITH # (BY REPLY)</summary>
 
-### EXAMPLE 3 WITH # (BY REPLY)
 > bagian sini hastag dari depan
 
 ![Preview](/group/example-setwd4-reply.jpg)
