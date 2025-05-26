@@ -7,5 +7,5 @@
 - editing watermark sticker
 - remove watermark sticker
 - no cooldown
-- feature store private chat
+- feature store private chat (tergantung)
 - dan masih banyak lagi
