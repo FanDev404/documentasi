@@ -62,12 +62,10 @@
 </details>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
-<details>
-<summary>SETTINGS SCURITY GROUP</summary>
-  
-## DISCAILMER
-  ```jika kalian tidak tahu bagian sini hanya berguna untuk settings merubah sender atau pengirim menjadi kick, delete pesan atau ke duanya juga bisa```
-  
+# SETTINGS SCURITY GROUP
+
+> note : jika kalian tidak tahu bagian sini hanya berguna untuk settings merubah sender atau pengirim menjadi kick, delete pesan atau ke duanya juga bisa
+
 ### FEATURE
 - ```setantilinkgc``` (SETTINGS ANTI LINK GROUP)
 - ```setantilinkch``` (SETTINGS ANTI LINK CHANNEL)
@@ -85,10 +83,14 @@
 - ```setantisange``` (SETTINGS ANTI SANGE/ANTI JOMOK)
 - ```setantivabe``` (SETTINGS ANTI VIRTUAL ACCOUNT BANK & E-WALLET)
 
-### EXAMPLE (NO REPLY)
-![Preview](/group/example-setantilink-channel.jpg)
+<details>
+<summary>EXAMPLE (NO REPLY)</summary>
 
-### EXAMPLE (BY REPLY)
+![Preview](/group/example-setantilink-channel.jpg)
+</details>
+<details>
+<summary>EXAMPLE (BY REPLY)</summary>
+
 ![Preview](/group/example-setantilink-channel-reply.jpg)
 </details>
 
