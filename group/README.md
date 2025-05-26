@@ -315,33 +315,40 @@ wording : [Click Here](https://github.com/FanDev404/documentasi/blob/404/wording
 </details>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
-<details>
-<summary>OPEN TIME GROUP</summary>
-  
-## DISCAILMER
-  ```open time group ini membuat group close open secara otomatis berdasarkan waktu yang telah di atur, dan jika kalian memakai waktu sama seperti 00:00 => 00:00, atau kalian menggunakan feature open/close manual maka ini tidak akan berfungsi jika sudah di atur waktu sebelumnya```
+# OPEN TIME GROUP
+
+> open time group ini membuat group close open secara otomatis berdasarkan waktu yang telah di atur, dan jika kalian memakai waktu sama seperti 00:00 => 00:00, atau kalian menggunakan feature open/close manual maka ini tidak akan berfungsi jika sudah di atur waktu sebelumnya
 
 ## FORTMAT
 > ```.opentime 06:00 => 22:30``` (GROUP AKAN OPEN DARI JAM 06:00 SAMPAI JAM 22:30)
 
-### EXAMPLE WIB
+<details>
+<summary>EXAMPLE WIB</summary>
+
 ```
 .opentime 06:00 => 22:30
 ```
 ```
 .opentime 07:05 => 22:30 (wib)
 ```
+</details>
+<details>
+<summary>EXAMPLE WIT</summary>
 
-### EXAMPLE WIT
 ```
 .opentime 07:05 => 22:30 (wit)
 ```
+</details>
+<details>
+<summary>EXAMPLE WITA</summary>
 
-### EXAMPLE WITA
 ```
 .opentime 07:05 => 22:30 (wita)
 ```
-### RESULTS (06:00 => 01:00)
+</details>
+<details>
+<summary>RESULTS (06:00 => 01:00)</summary>
+
 ![Preview](/group/results-opentime.jpg)
 </details>
 
