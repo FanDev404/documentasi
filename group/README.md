@@ -29,7 +29,7 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 # SCURITY GROUP
 
-> note : beberapa factor tidak akan terkena seperti bot yg mengirim, admin yang mengirim atau owner yang mengirim
+> beberapa factor tidak akan terkena seperti bot yg mengirim, admin yang mengirim atau owner yang mengirim
 
 ### FEATURE
 - ```antilinkgc``` (ANTI LINK GROUP)
@@ -64,7 +64,7 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 # SETTINGS SCURITY GROUP
 
-> note : jika kalian tidak tahu bagian sini hanya berguna untuk settings merubah sender atau pengirim menjadi kick, delete pesan atau ke duanya juga bisa
+> jika kalian tidak tahu bagian sini hanya berguna untuk settings merubah sender atau pengirim menjadi kick, delete pesan atau ke duanya juga bisa
 
 ### FEATURE
 - ```setantilinkgc``` (SETTINGS ANTI LINK GROUP)
@@ -95,12 +95,10 @@
 </details>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
-<details>
-<summary>SETTINGS RESPONSE SCURITY GROUP</summary>
-  
-## DISCAILMER
-  ```jika kalian tidak tahu bagian sini hanya untuk merubah apakah mau di kasih respon atau tidak```
-  
+# SETTINGS RESPONSE SCURITY GROUP
+
+> jika kalian tidak tahu bagian sini hanya untuk merubah apakah mau di kasih respon atau tidak
+
 ### TAGS FORMAT
 
 1. ```antilinkgc``` (ANTI LINK GROUP)
@@ -122,16 +120,24 @@
 17. ```antidel``` (ANTI DELETE MESSAGE)
 18. ```announce``` (OPEN/CLOSE GROUP)
 
-### EXAMPLE (NO REPLY)
+<details>
+<summary>EXAMPLE (NO REPLY)</summary>
+
 ![Preview](/group/example-setrespon.jpg)
+</details>
+<details>
+<summary>EXAMPLE (BY REPLY)</summary>
 
-### EXAMPLE (BY REPLY)
 ![Preview](/group/example-setrespon-reply.jpg)
+</details>
+<details>
+<summary>FOR RESULTS (✅)</summary>
 
-### FOR RESULTS (✅)
 ![Preview](/group/results-yes.jpg)
+</details>
+<details>
+<summary>FOR RESULTS (❌)</summary>
 
-### FOR RESULTS (❌)
 ![Preview](/group/results-no.jpg)
 </details>
 
