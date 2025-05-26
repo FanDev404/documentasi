@@ -27,12 +27,10 @@
 </details>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
-<details>
-<summary>SCURITY GROUP</summary>
+# SCURITY GROUP
 
-## DISCAILMER
-  ```beberapa factor tidak akan terkena seperti bot yg mengirim, admin yang mengirim atau owner yang mengirim```
-  
+> note : beberapa factor tidak akan terkena seperti bot yg mengirim, admin yang mengirim atau owner yang mengirim
+
 ### FEATURE
 - ```antilinkgc``` (ANTI LINK GROUP)
 - ```antilinkch``` (ANTI LINK CHANNEL)
@@ -52,10 +50,14 @@
 - ```antiasing``` (ANTI NOMER NON INDO [Details](https://github.com/FanDev404/documentasi/blob/404/group/antiasing/README.md))
 - ```antidel``` (ANTI DELETE MESSAGE)
 
-### EXAMPLE (NO REPLY)
+<details>
+<summary>EXAMPLE (NO REPLY)</summary>
+  
 ![Preview](/group/example-antilink.jpg)
-
-### EXAMPLE (BY REPLY)
+</details>
+<details>
+<summary>EXAMPLE (BY REPLY)</summary>
+  
 ![Preview](/group/example-antilink-reply.jpg)
 </details>
 
