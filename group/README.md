@@ -293,24 +293,28 @@ wording : [Click Here](https://github.com/FanDev404/documentasi/blob/404/wording
 </details>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
-<details>
-<summary>MUTE COMMAND GROUP</summary>
-  
-## DISCAILMER
-  ```jika kalian tidak tahu bagian sini berguna untuk mute feature di group, dan ketika feature di mute maka bagi member kecuali admin dan owner tidak akan bisa memakai bot```
+# MUTE COMMAND GROUP
+
+> jika kalian tidak tahu bagian sini berguna untuk mute feature di group, dan ketika feature di mute maka bagi member kecuali admin dan owner tidak akan bisa memakai bot
 
 ## FORTMAT MUTE 
 > ```.mutecmd <feature>```
 
-### EXAMPLE MUTE
+<details>
+<summary>EXAMPLE MUTE</summary>
+
 ```
 .mutecmd menu
 ```
+</details>
+<details>
+<summary>EXAMPLE UNLOCK MUTE (NO REPLY)</summary>
 
-### EXAMPLE UNLOCK MUTE (NO REPLY)
 ![Preview](/group/example-unmutecmd.jpg)
+</details>
+<details>
+<summary>EXAMPLE UNLOCK MUTE (BY REPLY)</summary>
 
-### EXAMPLE UNLOCK MUTE (BY REPLY)
 ![Preview](/group/example-unmutecmd-reply.jpg)
 </details>
 
