@@ -2,3 +2,4 @@
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 # CARA ADD LIST
+> ini nama yang udh ada pada list tidak bisa di tambahkan
