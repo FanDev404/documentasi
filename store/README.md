@@ -16,5 +16,5 @@
 # CARA HAPUS KEYWORD
 > jika kalian ingin menghapus salah satu keyword yang ada pada list juga bisa
 
-# CARA HAPUS IMAGE KEYWORD ATAU TAMPILAN LIST
+# CARA HAPUS IMAGE
 > ini hanya berlaku jika keyword tersebut memiliki image atau tampilan list ada image
