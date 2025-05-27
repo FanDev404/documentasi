@@ -26,3 +26,23 @@
 ## CARA HAPUS IMAGE
 > ini hanya berlaku jika keyword tersebut memiliki image atau tampilan list ada image
 
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+## CARA MENGATUR KEYWORD
+> ini untuk mengatur keyword bisa di accecs oleh admin saja atau semua member
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+## CARA SETTINGS PROSES
+> ini untuk merubah tampilan proses dan cara hapusnya
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+## CARA SETTINGS DONE
+> ini untuk merubah tampilan done atau cara hapusnya
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+## CARA HAPUS SEMUA IMAGE KEYWORD
+> ini hanya berlaku jika ada keyword di list yang ada image
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+## CARA HAPUS SEMUA KEYWORD
+> ini hanya berlaku jika ada keyword di list
+
