@@ -7,10 +7,10 @@
 # CARA RUBAH TAMPILAN LIST
 > untuk merubah ini kalian memerlukan {x} pada wording kalian
 
-# CARA RUBAH ISI KEYWORD YANG SUDAH DI TAMBAHKAN DI LIST
+# CARA RUBAH ISI KEYWORD YANG SUDAH ADA DI LIST
 > untuk merubah ini perlu keyword yang udah ada dan jika keyword kalian ada huruf besar kecil tidak masalah asal sama jika hanya besar kecil tidak ada masalah, dan keyword akan mengambil character terpendek
 
-# CARA RUBAH NAMA KEYWORD YANG SUDAH DI TAMBAHKAN DI LIST
+# CARA RUBAH NAMA KEYWORD YANG SUDAH ADA DI LIST
 > teruntuk ini seperti yang kalian tau jika ingin merubah nama keyword kalian bisa langsung saja tanpa perlu hapus di list
 
 # CARA HAPUS KEYWORD PADA LIST
