@@ -2,4 +2,4 @@
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 # CARA ADD LIST
-> ini nama yang udh ada pada list tidak bisa di tambahkan, dan keyword besar kecil pada list akan mengikutin sesuai pada keyword yang di tambahkan
+> ini nama yang udh ada pada list tidak bisa di tambahkan, dan keyword besar kecil pada list akan mengikutin sesuai pada keyword yang di tambahkan, dan keyword akan mengambil character terpendek
