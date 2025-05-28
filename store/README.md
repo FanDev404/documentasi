@@ -4,15 +4,15 @@
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 ## CARA ADD KEYWORD KE LIST
-> ini nama yang udh ada pada list tidak bisa di tambahkan, dan keyword besar kecil pada list akan mengikutin sesuai pada keyword yang di tambahkan, dan keyword akan mengambil character terpendek
+> ini nama yang udh ada pada list tidak bisa di tambahkan, dan keyword besar kecil pada list akan mengikutin sesuai pada keyword yang di tambahkan, dan keyword akan mengambil character terpendek, dan jika butuh wording biosa cek di [sini](https://github.com/FanDev404/documentasi/blob/404/wording/README.md)
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 ## CARA RUBAH TAMPILAN LIST
-> untuk merubah ini kalian memerlukan {x} pada wording kalian
+> untuk merubah ini kalian memerlukan {x} pada wording kalian, dan jika butuh wording biosa cek di [sini](https://github.com/FanDev404/documentasi/blob/404/wording/README.md)
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 ## CARA RUBAH ISI KEYWORD
-> untuk merubah ini perlu keyword yang udah ada dan jika keyword kalian ada huruf besar kecil tidak masalah asal sama jika hanya besar kecil tidak ada masalah, dan keyword akan mengambil character terpendek
+> untuk merubah ini perlu keyword yang udah ada dan jika keyword kalian ada huruf besar kecil tidak masalah asal sama jika hanya besar kecil tidak ada masalah, dan keyword akan mengambil character terpendek, dan jika butuh wording biosa cek di [sini](https://github.com/FanDev404/documentasi/blob/404/wording/README.md)
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 ## CARA RUBAH NAMA KEYWORD
@@ -32,11 +32,11 @@
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 ## CARA SETTINGS PROSES
-> ini untuk merubah tampilan proses dan cara hapusnya
+> ini untuk merubah tampilan proses dan cara hapusnya, dan jika butuh wording biosa cek di [sini](https://github.com/FanDev404/documentasi/blob/404/wording/README.md)
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 ## CARA SETTINGS DONE
-> ini untuk merubah tampilan done atau cara hapusnya
+> ini untuk merubah tampilan done atau cara hapusnya, dan jika butuh wording biosa cek di [sini](https://github.com/FanDev404/documentasi/blob/404/wording/README.md)
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 ## CARA HAPUS SEMUA IMAGE KEYWORD
