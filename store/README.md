@@ -40,7 +40,7 @@
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 ## CARA HAPUS SEMUA IMAGE KEYWORD
-> ini hanya berlaku jika ada keyword di list yang ada image
+> ini hanya berlaku jika ada keyword di list yang ada image, dan hanya akan menghapus semua image saja dan keyword beserta isinya masih ada
 
 <details>
 <summary>EXAMPLE</summary>
