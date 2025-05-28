@@ -9,7 +9,7 @@
 <details>
 <summary>EXAMPLE (BY REPLY)</summary>
 
-> Keyword : ```Dm ml```
+> Keyword : ```Dm ml```(HANYA CONTOH)
 
 ![Preview](/store/example-addlist-reply.jpg)
 </details>
