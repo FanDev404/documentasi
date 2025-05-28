@@ -42,7 +42,22 @@
 ## CARA HAPUS SEMUA IMAGE KEYWORD
 > ini hanya berlaku jika ada keyword di list yang ada image
 
+<details>
+<summary>EXAMPLE</summary>
+  
+```
+.clearmedia
+```
+</details>
+
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 ## CARA HAPUS SEMUA KEYWORD
 > ini hanya berlaku jika ada keyword di list
 
+<details>
+<summary>EXAMPLE</summary>
+  
+```
+.clearlist
+```
+</details>
