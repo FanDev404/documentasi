@@ -50,7 +50,7 @@
 ![Preview](/store/example-dellist-1.jpg)
 </details>
 <details>
-<summary>EXAMPLE NO REPLY (WITH KEYWORD)</summary>
+<summary>EXAMPLE NO REPLY (WITH NUMBER)</summary>
 
 ![Preview](/store/example-dellist-2.jpg)
 </details>
