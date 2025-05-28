@@ -4,7 +4,7 @@
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 ## CARA ADD KEYWORD KE LIST
-> ini nama yang udh ada pada list tidak bisa di tambahkan, dan keyword besar kecil pada list akan mengikutin sesuai pada keyword yang di tambahkan, dan keyword akan mengambil character terpendek jika tidak sambil reply, dan jika butuh wording bisa cek di [sini](https://github.com/FanDev404/documentasi/blob/404/wording/README.md)
+> ini nama yang udh ada pada list tidak bisa di tambahkan, dan keyword besar kecil pada list akan mengikutin sesuai pada keyword yang di tambahkan, dan keyword akan mengambil character terpendek jika tidak sambil reply, dan jika butuh wording untuk isi keyword bisa cek di [sini](https://github.com/FanDev404/documentasi/blob/404/wording/README.md)
 
 <details>
 <summary>EXAMPLE (BY REPLY)</summary>
