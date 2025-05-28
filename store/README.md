@@ -12,6 +12,10 @@
 > Keyword : ```Dm ml``` (HANYA CONTOH)
 
 ![Preview](/store/example-addlist-reply.jpg)
+
+> FOR RESULTS
+
+![Preview](/store/results-addlist-1.jpg)
 </details>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
