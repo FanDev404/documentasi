@@ -47,7 +47,12 @@
 <details>
 <summary>EXAMPLE NO REPLY (WITH KEYWORD)</summary>
 
-![Preview](/store/results-list-store.jpg)
+![Preview](/store/example-dellist-1.jpg)
+</details>
+<details>
+<summary>EXAMPLE NO REPLY (WITH KEYWORD)</summary>
+
+![Preview](/store/example-dellist-2.jpg)
 </details>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
