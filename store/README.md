@@ -8,8 +8,8 @@
 
 <details>
 <summary>EXAMPLE BY REPLY</summary>
-  
-example-addlist-reply
+
+![Preview](/store/example-addlist-reply.jpg)
 </details>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
