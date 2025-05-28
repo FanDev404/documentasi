@@ -7,14 +7,14 @@
 > ini nama yang udh ada pada list tidak bisa di tambahkan, dan keyword besar kecil pada list akan mengikutin sesuai pada keyword yang di tambahkan, dan keyword akan mengambil character terpendek jika tidak sambil reply, dan jika butuh wording untuk isi keyword bisa cek di [sini](https://github.com/FanDev404/documentasi/blob/404/wording/README.md)
 
 <details>
-<summary>EXAMPLE (BY REPLY)</summary>
+<summary>EXAMPLE BY REPLY</summary>
 
 > Keyword : ```Dm ml``` (HANYA CONTOH)
 
 ![Preview](/store/example-addlist-reply.jpg)
 </details>
 <details>
-<summary>EXAMPLE (NO REPLY WITH ```||```)</summary>
+<summary>EXAMPLE NO REPLY ( || )</summary>
 
 > Keyword : ```Dm ml``` (HANYA CONTOH)
 
