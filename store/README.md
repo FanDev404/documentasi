@@ -14,6 +14,15 @@
 ![Preview](/store/example-addlist-reply.jpg)
 </details>
 <details>
+<summary>EXAMPLE (NO REPLY WITH ||)</summary>
+
+> Keyword : ```Dm ml``` (HANYA CONTOH)
+
+### KEYWORD DI AWAL
+
+![Preview](/store/example-addlist-1.jpg)
+</details>
+<details>
 <summary>RESULTS</summary>
 
 ![Preview](/store/results-list-store.jpg)
