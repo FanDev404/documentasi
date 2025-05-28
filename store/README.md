@@ -14,7 +14,7 @@
 ![Preview](/store/example-addlist-reply.jpg)
 </details>
 <details>
-<summary>EXAMPLE (NO REPLY WITH ||)</summary>
+<summary>EXAMPLE (NO REPLY WITH ```||```)</summary>
 
 > Keyword : ```Dm ml``` (HANYA CONTOH)
 
