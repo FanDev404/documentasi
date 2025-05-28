@@ -25,6 +25,7 @@
 - [x] fix anti link twitter (24-05-2025)
 - [x] fix anti link fb (24-25-2025)
 - [x] fix douyin download (24-05-2025)
+- [x] update calculator (28-05-2025)
 - [ ] pinterest
 - [ ] stalk ff
 - [ ] sewa group in pg
