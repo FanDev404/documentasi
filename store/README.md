@@ -21,6 +21,10 @@
 ### KEYWORD DI AWAL
 
 ![Preview](/store/example-addlist-1.jpg)
+
+### KEYWORD DI AKHIR
+
+![Preview](/store/example-addlist-2.jpg)
 </details>
 <details>
 <summary>RESULTS</summary>
