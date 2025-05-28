@@ -44,6 +44,12 @@
 ## CARA HAPUS KEYWORD
 > jika kalian ingin menghapus salah satu keyword yang ada pada list juga bisa
 
+<details>
+<summary>EXAMPLE NO REPLY (WITH KEYWORD)</summary>
+
+![Preview](/store/results-list-store.jpg)
+</details>
+
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 ## CARA HAPUS IMAGE
 > ini hanya berlaku jika keyword tersebut memiliki image atau tampilan list ada image
