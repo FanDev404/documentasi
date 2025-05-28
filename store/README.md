@@ -16,7 +16,7 @@
 <details>
 <summary>RESULTS</summary>
 
-![Preview](/store/results-addlist-1.jpg)
+![Preview](/store/results-list-store.jpg)
 </details>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
