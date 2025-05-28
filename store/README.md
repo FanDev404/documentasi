@@ -8,7 +8,7 @@
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 ## CARA RUBAH TAMPILAN LIST
-> untuk merubah ini kalian memerlukan {x} pada wording kalian, dan jika butuh wording bisa cek di [sini](https://github.com/FanDev404/documentasi/blob/404/wording/README.md)
+> untuk merubah ini kalian memerlukan ```{x}``` pada wording kalian, dan jika butuh wording bisa cek di [sini](https://github.com/FanDev404/documentasi/blob/404/wording/README.md)
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 ## CARA RUBAH ISI KEYWORD
