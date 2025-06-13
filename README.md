@@ -26,11 +26,16 @@
 - [x] fix anti link fb (24-25-2025)
 - [x] fix douyin download (24-05-2025)
 - [x] update calculator (28-05-2025)
-- [x] store support prefix (29-05-2025) 
+- [x] store support prefix (29-05-2025)
+- [x] welcome group (13-06-2025)
+- [x] update calculator lagi (13-06-2025)
+- [x] fix wd afk (13-06-2025)
+- [x] store font (13-06-2025)
+- [x] fix expired code sewa (13-06-2025)
+- [x] fix rename key with img (13-06-2025)
 - [ ] pinterest
 - [ ] stalk ff
 - [ ] sewa group in pg
-- [ ] welcome group
 
 # DOCUMENTASI
 
