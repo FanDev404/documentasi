@@ -33,8 +33,8 @@
 - [x] store font (13-06-2025)
 - [x] fix expired code sewa (13-06-2025)
 - [x] fix rename key with img (13-06-2025)
+- [x] stalk ff (13-06-2025) 
 - [ ] pinterest
-- [ ] stalk ff
 - [ ] sewa group in pg
 
 # DOCUMENTASI
